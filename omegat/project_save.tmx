@@ -1,9 +1,2489 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>(there will be three waves)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>(їх буде три хвилі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>15 III, 23 YW:
+
+One of my bats must have been old, for it died. Boldly then, I decided to animate the corpse. I was pleased to see that it worked, but what was interesting was this: The first time the bat twitched, I felt a last spark of life energy flash through its body. I noted that it flowed through some kind of pathway. That gave me an idea. With my mind, I searched out all the life force pathways in its body using what I could sense in the living bats as a guide. Then I animated &lt;i&gt;them&lt;/i&gt; all at once, and the bat slowly flapped off the floor on its own! (That is a trick old Aimucasur probably doesn’t know!) Even better, the energy running through the life force network seemed to maintain itself, so I didn’t need to continue to concentrate. Could this be the whole secret? Could all the ancient lords have had someone bring them back &lt;i&gt;after&lt;/i&gt; death? I would need another mage I trusted completely, but perhaps I can find someone with whom to make a pact.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>15 III, 23 р.В.:
+
+Один із моїх кажанів помер від старості, тож я вирішила спробувати оживити його труп. На втіху, мені вдалося. Утім, виявилася одна цікава річ: коли мертвий кажан вперше тіпнувся, я відчула, як у його тілі промайнула остання іскра життя. Вона рухалася наче в певному руслі, і це мене наштовхнуло на одну думку. Подумки я відшукала всі русла життєвої енергії в трупі, спираючись на те, що відчувала у живих кажанах. І потім я їх &lt;i&gt;всі&lt;/i&gt; оживила одразу. Кажан потроху злетів з підлоги в повітря! Сам! (Старигань Аймуказур напевно й не підозрює, що таке можливо!) І це ще не все. Енергія, яка наповнила русла, була цілком здатна підтримувати сама себе, тож мені навіть не довелося зосереджуватися надто довго. Невже секрет саме в цьому? Невже давні владики доручили комусь повернути себе до життя вже &lt;i&gt;після&lt;/i&gt; того, як помруть? Потрібен маг, якому б можна було цілком довіряти. Можливо, вдасться із кимось домовитися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16 III, 23 YW:
+
+I decided to hide in the cemetery. That way I could try my experiment to animate a human body when night fell. With my dark cloak, I resembled the mourners, and with my hood up, nobody could see my hair.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>16 III, 23 р.В.:
+
+Вирішила сховатися на цвинтарі. Так матиму змогу вночі поекспериментувати з оживленням людського трупу. Темний плащ дав змогу злитися із траурною процесією, а волосся вдалося приховати глибоким капюшоном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>17 III, 23 YW:
+
+Even with the delay at the graveyard, I reached the outskirts of Llorvin at first light, and it was far behind me when the sun rose above the mountain peaks. I doubt the Academy will be looking for me in the trackless wilds inhabited only by woodcutters, and with my new companions, I feel safe enough to travel during the day. I am heading east and then north towards the docks. A ship should be leaving for Blackwater Port in a few days, and I mean to be on it.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>17 III 23 р.В.:
+
+Попри затримку на кладовищі, з першими променями сонця я була вже на околиці Ллорвіна. Коли ж воно засяяло високо над гірськими вершинами, містечко вже залишилося далеко позаду. Навряд посіпаки Академії шукатимуть мене в непролазних хащах, де живуть хіба лісоруби, та й із новими помічниками я почуваюся в безпеці, навіть якщо подорожую вдень. Попрямую на схід, а потім на північ до доків. Звідти за кілька днів відпливає корабель до Чорних Вод, і я маю намір на нього встигнути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>22 III, 23 YW
+
+Research sometimes requires experiments, so I began. I knew the bandit had intended to rob me, and once I had killed his beloved, he had intended to torture and kill me. Now that I was in control, he was afraid and defensive, and while his hatred of me was unabated, his desire to live made him somewhat malleable.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>22 III, 23 р.В.
+
+В інтересах дослідження часом варто проводити досліди, тож я почала власний. Дано: бандит мав на меті мене пограбувати, а коли я вбила його коханку, він був ладен мене закатувати до смерті. Після того, як здався на мою милість, він став боязким і обережним. Його ненависть до мене не вщухла, та бажання жити переважило, і він став податливішим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25 III, 23 YW
+
+The journey started well enough, but on the dawn following our departure, the wind died completely, and we were stranded. There was enough food for the paying passengers for a couple days of this, but none for my companions, and the living ones soon got hungry. When one of the crew disappeared on the second evening, I suspected the cause. I was not wrong.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>25 III, 23 р.В.
+
+Початок подорожі видався непоганий, та на світанку наступного дня після від'їзду вітер ущух. Ми опинилися в скрутній ситуації: на кораблі був запас харчів для звичайних пасажирів на пару днів. Але що до того моїм оживленим супутникам? Невдовзі їх охопив голод. Коли надвечір другого дня зник один із членів екіпажу, я запідозрила причину. І мої підозри не були марними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>26 II, 23 YW:
+
+My experiments with bats have proven unfruitful. I have determined that they do not truly drain the life force of their victims — it is an illusion. The loss of blood weakens the victim, while the bat gains vitality because it has fed. There is nothing I can learn from bats about extending life. Now I have a problem. I am forced to keep the bats and pretend they are my pets because I cannot admit why I was studying them. In truth, it is not a burden — I have grown somewhat fond of the creatures, and I don’t mind appearing eccentric. I am already marked as different because my hair is so light, and I lack a sense of smell.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>26 II, 23 р.В.:
+
+Досліди на кажанах не увінчалися успіхом. Як виявилося, вони не п'ють із жертв життєву силу. Так просто здається: жертва слабшає від втрати крові, а кажан має прилив сил від того, що підживився. Тим, хто хоче жити довше, нічому корисному в них не навчитися. На додачу маю тепер ще клопіт: мушу вдавати, що ті кажани — мої домашні улюбленці, а не піддослідні тварини. Утім, це нескладно: вони мені навіть милі, хай мене і вважають за це дивакуватою. Мене однаково тут кличуть «білою вороною» за колір волосся й відсутність нюху.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>29 III, 23 YW
+
+When the captain retained his memories, I reasoned that it may have been because he was raised so soon after his death. Further experiments with the other passengers bore out that conclusion. Just think: They may be the first people on this continent to live forever!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>29 III, 23 р.В.
+
+Коли побачила, що капітан не втратив пам'ять, я припустила, що це тому, що я його підняла невдовзі після смерті. Подальші досліди на пасажирах підтвердили цей висновок. Це ж треба, вони, ймовірно, перші люди на континенті, що житимуть вічно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3 IV, 23 YW
+
+I was so sure I had the answer! I was wrong. I wanted to believe that I was imagining it, but it’s now clear that the captain’s memories are fading. He still retains speech, and the others fight better when he is watching (many used to be his crew after all — it would be habit for them), but he remembers precious little else now. The same is true of my other recently-raised friends. I am disappointed, but the existence of my strange new companion keeps me from being depressed.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>3 IV, 23 р.В.
+
+Я була певна, що знайшла відповідь, та не судилося. Сподівалася, що мені здалося, але тепер уже очевидно, що капітан втрачає пам'ять. Він досі може говорити, і інші під його наглядом ліпше б'ються (багато з них — колишні члени його екіпажу, тож, імовірно, звикли до його командування), проте спогадів у нього залишилося небагато. Те ж саме можна сказати й про інших моїх новопіднятих друзів. Я, звісно, розчарована, але не занепадаю духом, бо маю нового незвичайного супутника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3 IV, 23 YW
+
+I was so sure I had the answer! I was wrong. I wanted to believe that I was imagining it, but my recently-raised friends are losing their memories. They retain the power of speech, but precious little else. I am disappointed, but the existence of my strange new companion keeps me from being depressed.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>3 IV, 23 р.В.
+
+Я була певна, що знайшла відповідь, та не судилося. Сподівалася, що мені здалося, але тепер уже очевидно, що мої новопідняті друзі втрачають пам'ять. Вони досі пам'ятають, як розмовляти, але не більше. Я, звісно, розчарована, але не занепадаю духом, бо маю нового незвичайного супутника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4 III, 23 YW:
+
+Today, headmaster Aimucasur himself taught a class on moving objects with one’s mind. The technique involves projecting one’s will inside the item, and then learning to move it as an extension of the body. Incantations focus the mind to the task. We practiced with inanimate objects, but clearly the same principle could be applied to unliving flesh. Nobody dared voice the thought, because showing interest in the necromantic arts results in expulsion. I was pondering that fact in class when I noticed Aimucasur glowering at me. I must be more careful in the future about which of my thoughts appear on my face.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>4 III, 23 р.В.:
+
+Розпорядник Аймуказур власною персоною нині читав лекцію з рухання об'єктів силою розуму. Загалом, суть у тому, щоб проєціювати власну волю всередину об'єкта і потім навчитися ним рухати, наче це частина твого тіла. Зосередитися на процесі допомагають спеціальні магічні формули. Ми тренувалися на предметах, але цей принцип, очевидно, цілком можна застосувати й до мертвих тіл. Ніхто не насмілився це зауважити вголос, бо цікавих до некромантії одразу виганяють із академії. Сидячи в аудиторії, я задумалася була над тим застосуванням, аж помітила, як на мене зиркнув Аймуказур. Треба бути обережнішою і стежити, чи не видає вираз обличчя моїх думок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>9 IV, 23 YW
+
+The tunnel at the back of the cave narrowed and ran on for quite some time. Patches of fungus on the wall gave off a feeble glow that kept me from stumbling too badly. Finally I saw a brighter light up ahead.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>9 IV 23 р.В.
+
+Тунель в глибині печери виявився довгим і вузьким. Стіни плямами вкривав грибок, що слабко світився, тож я навіть не надто перечіпалася. Нарешті, я побачила вогник попереду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;Chapter One:&lt;/i&gt; Unlawful Research</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>&lt;i&gt;Розділ 1:&lt;/i&gt; Заборонені дослідження</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;Chapter Two:&lt;/i&gt; Two Missions</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>&lt;i&gt;Розділ 2:&lt;/i&gt; Два завдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;From the Journal of Ardonna of Tarrynth&lt;/i&gt;
+
+9 XII, 22 YW:
+
+It’s unfair that we humans must die after so few years. Elves and dwarves live far longer. Though this may be the natural order, we need not embrace it! The lords on the Green Isle knew how to live forever. Pursuit of that knowledge was declared illegal by King Haldric I, but I believe it is worth the risk. As I watched my family waste away of various maladies, I vowed that I would not share their fate, and if I can rediscover the secrets of the ancients I will be a hero to the whole continent! I shall begin research in earnest this winter.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>&lt;i&gt;Зі щоденника Ардонни Тарринтської&lt;/i&gt;
+
+9 XII, 22 р.В.:
+
+Людям відміряний несправедливо короткий вік. Ельфи й гноми живуть куди довше. Звісно, нас такими створила природа, та із цим не можна миритися! Владарі Зеленого острова відали, як жити вічно. Король Гільдрік I оголосив ту мудрість забороненою, але я ладна ризикнути. На моїх очах родичі конали від різних пошестей. Хай там як, а я не збираюся гинути, як вони. Я розкрию таємниці древніх та уславлюся на весь континент! Цієї зими починаю докладні дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;span color='cyan'&gt;Special Note: &lt;/span&gt;In this campaign, if a unit is killed and not immediately raised as a corpse, its corpse type will be permanently added to the recruit list instead.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>&lt;span color='cyan'&gt;Зверніть увагу: &lt;/span&gt;у цій кампанії, якщо тіло вбитої бойової одиниці одразу не оживити, на екрані найму з'явиться можливість оживляти подібні до неї трупи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lua error has occurred, and a corpse cannot be recruited.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Не можна оживити труп через помилку в Lua-коді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wolf! This journey may be more dangerous than I thought. If we need to, I suppose we could rest inside a farmer’s or woodcutter’s fence.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вовк! На шляху чигає більше небезпек, ніж здавалося. Гадаю, через паркан ферми чи лісопильні він не перескочить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional Artwork</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Додаткове художнє оформлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aethacyn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Етасин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ah, well. I should have known this wouldn’t be easy.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Що ж. Можна було здогадатися, що проблеми виникнуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ah... yes, I suppose not. Let me teach you some of what I know today, and see if that informs your opinion. However, the question of trust is not the most important. The question is whether or not we can work together. Listen. The ancient Wesfolk honed their craft over generations. There is more to know than one individual can learn in a lifetime. If you do your research alone, you will one day be as old as I, and death will pursue you just as relentlessly. However, if we combine our research, we have a chance of finishing before it is too late for us.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>А… Дійсно. Сьогодні я навчу тебе дещиці з того, що знаю, і подивимося, чи зміниться твоя думка. Утім, питання навіть не в довірі. Питання в тому, чи зможемо ми працювати разом. Послухай. Давні західняки поколіннями відшліфовували свої вміння. На те, щоб осягнути їхню мудрість, не вистачить людського життя, а надто якщо працюєш самотужки. Одного дня прийде старість, і смерть почне дихати тобі в потилицю. Та якщо ми об'єднаємо зусилля, матимемо шанс закінчити дослідження ще до того, як для когось із нас буде запізно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alas, no. Ghosts can retain some memories if they are raised quickly enough, and they make good scouts and soldiers after they have some experience, but you wouldn’t want to become one yourself. You see the blades Vash-Gorn carries? It took a complicated ritual to bind that metal to the spirit, and one couldn’t perform that ritual oneself without a physical body. Being unable to interact with the world would be terribly frustrating. No matter; I have another idea.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>На жаль, ні. Привиди зберігають спогади, якщо їх достатньо швидко викликати, і вони стають в пригоді як розвідники і бійці, коли набираються досвіду, але не раджу ставати одним із них. Бачиш мечі в руках Ваш-Ґорна? Щоб прив'язати ті залізяки до духа, знадобився складний ритуал, і тому, хто позбавився фізичної оболонки, його не провести. Нездатність взаємодіяти з оточенням дуже дратує. Та годі про це. Я дещо інше придумав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All Corpses</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Усі трупи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And there is a white-haired girl.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>А от і біловолосе дівча.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And we’re leaving this stinking town!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ми покидаємо це смердюче містечко!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And why &lt;i&gt;seven&lt;/i&gt; of us? Who wants to break into a cemetery that badly?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>І чому &lt;i&gt;всімох&lt;/i&gt;? Хто аж настільки захоче проникнути на це кладовище?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And why &lt;i&gt;twelve&lt;/i&gt; of us? Who wants to break into a cemetery that badly?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>І чому &lt;i&gt;вдванадцятьох&lt;/i&gt;? Хто аж настільки захоче проникнути на це кладовище?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ardonna</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ардонна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ardonna can climb over a fence for 2 movement points, but wild animals cannot.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ардонна може перелазити через паркани (на це вона витрачатиме 2 одиниці руху), а дикі дикі звірі — ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you wish. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>plural^Як бажаєш. (&lt;i&gt;Кхе-кхе&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attacks</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Атаки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bandits</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Бандити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Barrels act as villages.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Замість сіл у цьому сценарії використовуються діжки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bats</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Кажани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Becalmed</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Затишшя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blackwater</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Чорні Води</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blackwater Port is defeated, but we must let none escape. Finish them all.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Темні Води завойовано. Не дайте нікому втекти. Повбивайте їх усіх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blaust</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Блауст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blollyn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Блоллин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boatworks</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Човнарська майстерня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bogdush</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Боґдуш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bones. Claws and wings.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Кості. Кігті й крила.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bremen</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Бремен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Campaign Design, Programming, and Artwork</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Створення кампанії, програмування, художнє оформлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Campaign Maintenance</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Додаткова робота над кампанією</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can I help?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Можна я допоможу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can we help?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Можна, ми допоможемо?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you still sail this ship?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ти можеш керувати кораблем?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capture every village</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Захопіть усі села</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caradoc</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Карадок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carcyn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Карсин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carcyn Fisher</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Карсин Фішер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carcyn Fisher at your service, and this is my friend Shynal.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Карсин Рибальченко до ваших послуг, а це моя подруга Шиналь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cemetery</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Кладовище</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ceoran</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Сеоран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Challenging</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>підвищена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose a Corpse</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Виберіть труп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose this “unit” to get a list of available corpses.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Виберіть цю «бойову одиницю», щоб побачити повний перелік доступних трупів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Іди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corrupt</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гріх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Curious, but convenient for one such as us.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Цікаво. І доволі зручно для наших справ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dark Business</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Темні справи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death of Ardonna</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ардонну вбито</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death of Ras-Tabahn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Раса-Табана вбито</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death of all five dark adepts</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Усіх п'ятьох темних адептів убито</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defeat the enemy leader</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Візьміть гору над ватажком противника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy all the undead units</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Знищте всіх мерців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diabolic</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Святотатство</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficult</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>дуже висока</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you remember anything?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ти щось пам'ятаєш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don’t remind me. My father is the one who threw me in this hole.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Не нагадуйте. Я в цій дірі опинився через батька.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dwarves</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гноми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each grave can be used only once.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Кожну могилу можна використати лише один раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Easy pickings then.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тоді проблем не матимемо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elomyr</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Еломир</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fence</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Паркан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find out where the ghost went and follow it</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>З'ясуйте, куди попрямував привид, і йдіть за ним</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flying Corpse</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Летючий труп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Following the Shadow</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Услід за тінню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For you, you mean. I am only nineteen. Still, you make a good case. We can work together for now.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тобто для вас. Мені лиш дев'ятнадцять. Утім, ви мене переконали. Можемо поки що працювати разом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Garcyn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ґарсин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ghost?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Привид?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Girl. You will follow.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Дівчино. Йди за мною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glant</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ґлант</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goblin Raiders</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гобліни-налітники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good riddance. But, with the captain dead, who will sail the ship and guide us into port now?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Собаці — собача смерть. Але як тепер без капітана керувати кораблем і завести його в порт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grange Hall</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Сільрада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grave</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Могила</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greetings! I am Ras-Tabahn the mage.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вітаю! Мене звуть Рас-Табан, я — маг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greetings, traveler. I am Carcyn Fisher the Second. How can I be of service?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вітаю, подорожанине. Я — Карсин Рибальченко Другий. Чим можу допомогти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gryphons</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Грифони</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guard</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вартовий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guardhouse</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вартівня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guards</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вартові</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gweddyn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ґведдин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gwyllin</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ґвиллін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gwyllin, don’t move from that guardhouse.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ґвилліне, ні кроку від вартівні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HP:</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Здоров'я:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ha! Well, actually, you do look terrible. Very... gray, and your face is... But we’re speaking! You can’t actually be dead!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ха! Але ти дійсно на вигляд змарнів щось. Якось… посірів, і обличчя… Але ж ми розмовляємо! Ти точно не вмер!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Happened? Dead.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Сталося? Вмер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Happily, the captain was fairly wealthy, so that will solve my income problems for a time. Now I must go, as the captain prepares to guide the ship into port.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>На щастя, капітан виявився людиною заможною, тож проблеми з грошима на деякий час відходять на другий план. Мушу йти, бо капітан готується заходити в порт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hello?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Агов?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey! Don’t do that, or I will need more of them.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гей! Зупиніться, бо доведеться мені більше таких наробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, come back! I didn’t mean to frighten you.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ну, повернися! Я не хотіла тебе злякати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He’s &lt;i&gt;dead&lt;/i&gt;! This is dark sorcery like in my granddad’s time in the old country! The penalty is death. Attack and destroy them both!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Та він же &lt;i&gt;мертвий&lt;/i&gt;! Це якась чорна магія, як у часи прадіда, за старого режиму! За таке в нас смертна кара. Убийте їх! Вперед!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide Sails and Rigging</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Приховати вітрила й такелаж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hmm. The youngsters most willing to leave may be the ones in the jailhouse. I should investigate.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гм-м-м. У в'язниці, мабуть, найбільше молоді, налаштованої тікати. Треба туди навідатися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ho Rudic! Welcome. You are late, old friend.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Привіт, Рудику! Щось ти спізнюєшся, друже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold your tongue! I can see that! I tolerate advisors but not when they only speak the obvious.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Стули пельку! Сам бачу! Я готовий терпіти порадників, але не тих, що говорять очевидні речі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How do you know my name?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Звідки ви знаєте моє ім'я?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Huh. Well, they’re not the first ugly things we’ve seen in the wilds. Your club crushes bone just fine, so crush them.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Хе. Ну, ми не вперше зустрічаємо в хащах якусь бридоту. Твоя довбня чудово ламає кістки, розтовчи-но їх нею.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarrynth!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я — Рас-Табан. Вітаю тебе у себе в лабораторії, Ардонно Тарринтська!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I believe I know how to get the information we seek, but it would have been too difficult to obtain myself. Therefore, we shall go on a mission, you and I. First, we will enlarge our armies, and then...</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Здається, я знаю, де добути потрібну нам інформацію, але самому мені впоратися. Тому нам доведеться взятися за справу разом, мені й тобі. Спочатку, ми збільшимо наше військо, а потім…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I come with an offer. An offer of training in the magical arts. An offer of learning, adventure, and escape from this town.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Маю до вас пропозицію. Я навчаю мистецтву магії усіх охочих до знань, пригод, і можливості вирватися з цього міста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don’t know, Bogdush. The Chief said he wanted stuff that was helpful for the war.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Не знаю, Боґдуше. Вождь казав, йому треба щось корисне для війни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don’t know, but this evening a mage from the Academy was here talking to the mayor, my brother says.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Не знаю, але брат казав, що нині ввечері маг з Академії щось тут обговорював із міським головою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I found Janryn in the hold. Or, ah... some of him. He’s dead. I didn’t stay to find out what killed him, but there was someone shuffling around in the shadows, and he smelled foul.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я знайшов Янрина в трюмі. Точніше… те, що від нього залишилося: він загинув. Не знаю, що його вбило, і перевіряти не хотілося, але в пітьмі щось шаркало, й смерділо там неймовірно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I heard something over there!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я щось почув!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I know much about you. My ghosts have been watching you for some time now, and you and I share the goal of resisting death. I have been hoping several students would free themselves from that conservative Academy, but it seems that you will be the only one. Fortunately, you are quite innovative, and have even accomplished something which I have not. You have useful creatures — I believe you call them ghouls?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я багато про тебе знаю. Мої привиди вже деякий час спостерігають за тобою, і ми з тобою маємо спільну мету — перемогти смерть. Я сподівався, що кілька студентів утечуть із тієї затхлої Академії, але ти поки що єдина. На щастя, ти дуже здібна і навіть досягла дечого, чого мені не вдалося. Цікаві тут у тебе створіння — ти, здається, кличеш їх гулями?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I passed him a wineskin, to put him at ease. He eyed me suspiciously, then took a sip, calculating my intentions. I then placed a portion of my gold resources on the table, and his eyes locked upon it.
+
+I then placed upon the table a ring stripped off the bandit named ‘Mossa’, his beloved partner in crime. His gaze shifted from the gold to the ring, and then quickly to my eyes. Had he not been tied to the chair, he would have attacked me.
+
+I added more gold to the pile, but he didn’t notice, he only glared at me with such hatred. The hunger for vengeance radiated off him like heat from a thousand suns — I could feel it more strongly than the fear or hunger from any of my pets...</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я протягнула йому бурдюк з вином, щоб він міг розслабитися. Він кинув на мене підозрілий погляд, а потім відпив, намагаючись передбачити мої наміри. Тоді я поклала на стіл частину своїх накопичень — і він одразу прикипів поглядом до грошей.
+
+Потім я поклала на тіл перстень, знятий із бандитки, на ім'я Мосса, його коханої спільниці. Він перевів погляд із золота на перстень і глянув мені в очі. Якби не був прив'язаний до стільця, він би вже накинувся на мене.
+
+Я досипала монет у купку грошей, та він не звернув уваги, лиш свердлив мене повним ненависті поглядом. Спрага до помсти перла з нього, наче жар тисяч сонць, і відчувалося значно сильніше ніж страх чи голод моїх улюбленців…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I should get off the island in case the ethics committee is concerned about a rogue mage. I shall not be dragged back in disgrace! I should be able to reach the town of Llorvin before morning. I can hide there until I can head for the dock. I will need some traveling money for that, so go, my bat friends, and find me some gold!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Треба забиратися з острова, поки звістка про мага-втікача не дійшла до комітету з етики. Я не дамся ганебно затягти себе назад! Мушу до ранку бути у Ллорвіні. До містечка вже недалеко, а там уже можна буде залягти на дно, доки матиму змогу дістатися доку. Без грошей у мандрах буде скрутно, тож летіть, мої кажаниська, і роздобудьте мені золота!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I suspected some of the rats would show themselves.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Так і знала, що позбігаються щури.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I think we were just spotted from that hill. Weapons up, my friends. We may be walking into an ambush.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гадаю, за нами стежили з того пагорба. Зброю до бою, друзі мої. Це може бути пастка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I warned you not to defy me.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я попередив: зневаги я не терпітиму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will do no such thing! I will be dead before I allow you to ensorcell our children!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ні в якому разі! Я життя своє покладу, але не дам тобі зачарувати наших дітей!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I would do better if I had weapons, and I bet I can find some in the guardhouse. Go take it, my companions.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Зі зброєю було б куди легше, і, підозрюю, у вартівні вона є. Захопіть-но її, друзі мої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I would pitch you over the side with them. What do you know?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я тебе викину за борт разом із ними. Що тобі відомо?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there is one bat, there are certainly more. We should be careful. It would be foolish to explore this cave alone.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Де один кажан — там і інші. Треба бути обережнішими. Не варто в цій печері ходити поодинці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Заїзд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It seems that my first guess was correct. The poor creature is mindless.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Здається, перше припущення виявилося правильним. Бідолага не зберіг і дрібки розуму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It would be good to have even more bats as well. There was a colony in that ruined castle where we practiced conjuring fire, so I will try to find that. The castle was also infested with huge rats as I remember, but I can certainly destroy those. I will have to use ice though, as I never mastered fire.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>До речі, непогано було б десь знайти ще кажанів. Вони наче кублилися серед руїн замку, де ми вправлялися в магії вогню. Варто туди навідатися. А ще ті руїни кишіли жирними щурами, та з ними якось уже впораюся. Доведеться, правда, обмежитися крижаними закляттями, бо стихію вогню я так і не опанувала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It’s a &lt;i&gt;mage&lt;/i&gt;! That &lt;i&gt;would&lt;/i&gt; be helpful for the war, you idiot! It’s only a pup, and unless I miss my guess, it’s a female too. It will be easy to capture.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Це ж &lt;i&gt;маг&lt;/i&gt;! Це і &lt;i&gt;є&lt;/i&gt; корисне для війни, дурбецало! Але воно ще маленьке, і, якщо очі не підводять, дівчисько. Ми з таким легко впораємося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It’s only me. Is the cemetery closed then? I was about to leave.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ой, це лиш я. Що, кладовище вже закрити? Я якраз збиралася йти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It’s sorcery my lord. Dark sorcery.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Це чари, пане. Темні чари.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jailhouse</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>В'язниця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Joc</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Джок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep quiet about that.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Мовчи, дурню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill all the guards, and capture the guardhouse</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Убийте всіх вартових і захопіть вартівню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill every enemy unit</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Убийте всі бойові одиниці противника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill her!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Убити її!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Late.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Спізнюєшся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Later:
+
+With further observation, I have determined that this is probably not the way to avoid death. The reanimated bat has no will! It does nothing unless I nudge it with my mind. Perhaps the will of a human is stronger, and someday soon I will have the opportunity to find out... because I’m quitting the Academy. I will be in my room when old Morvihn checks for the night, but not two hours later! I grow weary of this place and its restrictions on thought. So, no more brown initiate’s robes, no more being ridiculed on account of my hair, no more pompous instructors. I will teach myself the so-called “dark” arts and learn how to live forever! The ancients from the Green Isle found a way, so I can discover it too. When all these oldsters here find themselves breathing their last, they will have to beg me for the secret. Perhaps I will be generous. Perhaps not.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Пізніше:
+
+У підсумку подальших спостережень мушу визнати, що в цей спосіб смерть не оминути. Оживлений кажан не має й краплі власної волі! Нічогісінько не робить, доки не спонукаю його розумом. Можливо, у людей волі залишатиметься більше. Скоро вже матиму нагоду перевірити… бо я кидаю Академію. Старий Морвін під час вечірнього обходу побачить мене в келії, та за дві години мене вже й слід простигне! Я втомилася від цього місця і того, як тут обмежують свободу думки. Годі з мене бурої адептської мантії, годі жартів про моє волосся, годі пихатих викладачів. Сама опаную ті «темні» закляття й розкрию таємницю вічного життя! Древні із Зеленого острова змогли, і я зможу. Коли старі пердуни тут почнуть конати, вони благатимуть, щоб я поділилися з ними дрібкою таємних знань. Можливо, я навіть розщедрюся. А може й ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let’s follow it into the cave.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ходімо за ним у печеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lich</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ліч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Llorvin</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ллорвін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look at that! He’s not from the Academy.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ти глянь! А цей не з Академії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look, there is a cavern below the cave floor. What might we rouse if we go tromping about in the cave? I hope it is nothing worse than bats.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Дивись, під цією печерою — ціла каверна. Кого ми можемо збудити, якщо тупцятимемо тут? Хто знає. Сподіваюся, тут живуть лише кажани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lvl 0</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>0 рівень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MP:</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Магія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe I could attract it if I jingled some coins.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Можливо, дзвін монет його приманить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meeting of the Minds</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Зустріч однодумців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mercantile</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Крамниця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merfolk</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Водяники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merfolk Revenge</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Помста водяників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mossa</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Мосса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Ardonna to the signpost</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Проведіть Ардонну до дороговказа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Ardonna to the tunnel</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Приведіть Ардонну до тунелю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Murderous stowaways on my ship? I won’t have it! Go round up the rest of the crew and get them up here. We’re going hunting. All passengers are confined to quarters immediately.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>На моєму кораблі переховуються вбивці? Неподобство! Піди-но поклич решту екіпажу, щоб тут усі зібралися. Уполюємо ту наволоч. Усім пасажирам негайно закритися в каютах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Necromancy! The penalty for that is death. Rudic, who is responsible for this?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Некромантія! За неї карають смертю. Рудику, хто це з тобою зробив?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No doubt whatever was left of the mind inside gibbered at what it had become, but the bandit was now my puppet and I stitched the wounds as best I could. In some ways, this experiment was a failure, but the creature it created would be useful...</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Залишки свідомості сердеги точно були охоплені жахом від того, на що він перетворився, та розбійник уже став слухняною маріонеткою в моїх руках. Я наклала шви на його рани на його рани, як могла. Де в чому експеримент був невдалий, та створена мною істота може стати корисною…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No one in &lt;i&gt;my&lt;/i&gt; town wishes to “escape”! We don’t care to hear your offer. Peddle your corruption elsewhere.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ніхто не хоче «вирватися» з &lt;i&gt;мого&lt;/i&gt; міста! Не треба нам твоя пропозиція. Йди шукай охочих деінде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ні!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No, no, NO, &lt;i&gt;&lt;b&gt;NO&lt;/b&gt;&lt;/i&gt;!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ні, ні, НІ, &lt;i&gt;&lt;b&gt;НІ&lt;/b&gt;&lt;/i&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No? Fine then. I have an idea for another experiment.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Не вбивати? Що ж. Здається, я придумала ще один експеримент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>звичайна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not a chance! I’ve waited all my life to see someone put you in your place. Here is someone you can’t push around!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Дзуськи! Я все життя мріяв побачити, як хтось тебе на місце поставить. Його ти попихати не зможеш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not talking much today? What happened?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Не до балачок сьогодні? Що сталося?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let’s see where that ghost went.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тепер подивимося, куди попрямував привид.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh dear. We must do this again. Come to me my friends! If you are still hungry, feed on a passenger first.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Хай йому грець. Доведеться знову так вчинити. До мене, друзі мої! Якщо досі голодні, спочатку почастуйтеся кимось із пасажирів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh! It worked! Take us to port, Captain, as soon as you do have the wind.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ого! Спрацювало! Веди нас у порт, капітане, щойно повернеться вітер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, hello friend! I didn’t know you were hiding in there.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>О, вітаю, друже! Я й не знала, що ти тут заховався.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, hello! You’re a handsome one.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ой, привіт! Який же красень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, him. See here, I don’t want any trouble, but he is a little... ah...</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>А, ви про нього. Знаєте, я не хотіла б утрапити в халепу, але він дещо… е-е-е…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, it’s a mage that makes jokes too! Let’s go.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ой, а цей маг ще й хвацько жартує! Ходімо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, wow.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okean</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Океан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or... you know. Thanks so much for getting us out, sir. We would be glad to follow you!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Або… Ну, тобто… Дякую, що витягли нас, пане. Ми радо підемо з вами!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Orcs</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Орки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player and Enemy units can move between the surface and the interior of the ship via stairs.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Бойові одиниці гравця й противника можуть рухатися між верхньою й нижніми палубами по сходах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please! Don’t kill me.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Благаю, не вбивай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prey approaches, dearest. It’s an unusual band, but the ones with weapons look underfed.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Жертви вже на підході, любчику. Якась незвичайна компанія: ті, що зі зброєю, якісь заморені на вигляд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project-Id-Version: 
+Report-Msgid-Bugs-To: https://bugs.wesnoth.org/
+POT-Creation-Date: 2024-03-18 00:07 UTC
+PO-Revision-Date: 2024-07-04 17:39+0300
+Last-Translator: Andrii Serbovets &lt;serbovets.translation@gmail.com&gt;
+Language-Team: 
+Language: uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11 ? 0 : n%10&gt;=2 &amp;&amp; n%10&lt;=4 &amp;&amp; (n%100&lt;10 || n%100&gt;=20) ? 1 : 2);
+X-Generator: Poedit 3.4.2</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240807T212948Z" creationid="archdron" creationdate="20240807T212939Z">
+        <seg>Project-Id-Version: 
+Report-Msgid-Bugs-To: https://bugs.wesnoth.org/
+POT-Creation-Date: 2024-03-18 00:07 UTC
+PO-Revision-Date: 2024-07-04 17:39+0300
+Last-Translator: Andrii Serbovets &lt;serbovets.translation@gmail.com&gt;
+Language-Team: 
+Language: uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11 ? 0 : n%10&gt;=2 &amp;&amp; n%10&lt;=4 &amp;&amp; (n%100&lt;10 || n%100&gt;=20) ? 1 : 2);
+X-Generator: Omegat 6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Public House</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Таверна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raise Skeleton (15 Gold)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Підніміть кістяка (15 золота)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raise Skeleton Archer (14 Gold)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Підніміть кістяка-лучника (14 золота)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raise Walking Corpse (8 Gold)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Підніміть ходячого мерця (8 золота)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ras-Tabahn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Рас-Табан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ras-Tabahn’s offer enticed a large group of youngsters all eager to train as magi. The fact that it was illicit training in the dark arts was unimportant. More important was the escape from the drudgery of a fixed future, planned in advance by their parents. Ras-Tabahn spent a number of days in the forest outside of Carcyn instructing them on how to call on the spirit world and channel a small amount of its power. Soon after they moved on, they came across three farmsteads on the riverbank that had clearly been raided.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Пропозиція Раса-Табана привабила велику юрбу молоді, і всім їм кортіло навчитися магії. Їх не зупинило навіть те, що навчатися їм доведеться забороненої, темної магії: настільки їм кортіло втекти від нав'язаного їхніми батьками майбутнього. Рас-Табан упродовж кількох днів навчав їх у лісі неподалік Карсина, як установити зв'язок зі світом духів і скористатися дрібкою його сили. Невдовзі вони дісталися до трьох недавно розорених грабіжниками господарств.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raydah</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Рейда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recruit</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Завербувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rediscover the secrets known by the lich lords of the Green Isle. They knew how to live forever, so why can’t you?
+
+(Hard level, 18 scenarios.)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Розкрийте таємниці лічів — владик Зеленого острова. Вони довідалися, як жити вічно, тож чому й вам не спробувати?
+
+(Високий рівень складності, 18 сценаріїв)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Renvan</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ренван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click adjacent to your leader to summon the bat.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Клацніть правою кнопкою миші біля вашого персонажа, щоб прикликати кажана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on a grave adjacent to your leader to raise a unit.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Клацніть правою кнопкою миші на могилі біля вашого персонажа, щоб підняти з неї бойову одиницю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to simplify the ship graphics.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Клацніть правою кнопкою миші, щоб спростити зображення корабля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rise Captain, and please retain your memories.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Повстань, капітане. Сподіваюся, пам'ять буде при тобі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rudic</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Рудик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sail. Yes. Need wind.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Керувати. Так. Треба вітер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Secrets of the Ancients</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Таємниці древніх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She must be in league with the dead, so crush her too.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вона, мабуть, разом із мертв'яками. Розтовчи і її теж.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ship</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Корабель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ship’s Crew</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Екіпаж корабля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Sails and Rigging</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Показати вітрила й такелаж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slipping Away</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Утеча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So it’s only bats, but rather a lot of them.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Отже, тут живуть лише кажани, але ж скільки їх тут…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SotA</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>ТД</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spiders</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Павуки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spirit and shadow. You will follow.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Дух, тінь. Іди за мною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splendid. Here is what I propose. First, we part ways for a time, and you raise a force of ghosts following my instructions. Meanwhile, I am going to try to train some local peasants in the magical arts. I don’t expect much from that uneducated rabble, but hopefully some will be intelligent enough to add to our firepower. When we reunite, you will show me how to make one of those shambling ghouls. I am actually in no hurry, as they have a terrible odor.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Чудово. Ось, що я пропоную. Спочатку ми на деякий час розділимося: ти збереш армію привидів, додержуючись моїх вказівок, а я тим часом спробую навчити кількох місцевих селюків магії. Очікування в мене від неосвічених мугирів невеликі, та, сподіваюся, знайдеться кілька достатньо розумних, щоб стати нам у пригоді. Як зустрінемося знову, покажеш мені, як робити твоїх незграбних гулів. Я не спішу цьому вчитися, бо від них немилостиво смердить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summon the Bat (20 gold)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Прикличте кажана (20 золота)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Surely the ghost would not have gone that way, where I cannot follow.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Звісно, привид не пішов би туди, куди я не могла б дістатися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swimming Corpse</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Плавучий труп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Syrillin</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Сиріллін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tackle Shop</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Рибальські товари</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temple
+of Healing</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Храм
+зцілення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That may well be true.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Це можна влаштувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The morning has come, and I am still in the open. I will be caught for sure!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Настав ранок, а я й досі тут, як на долоні. Мене точно піймають!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The morning has come, and we have not escaped the city. We will be caught for sure!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Уже ранок, а ми досі в місті. Нас точно схоплять!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The offer is not intended for &lt;i&gt;you&lt;/i&gt;, it is for your youth. I will send my agents to every house and public space in this town and repeat my offer. You will allow this.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Моя пропозиція не &lt;i&gt;тобі&lt;/i&gt; призначена, а для місцевої молоді. Мої посланці з'являться біля кожних дверей і на кожній толоці цього міста, і там повторять мою пропозицію. І ти не перешкоджатимеш їм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The only Carcyn now. I’ve waited all my life to see someone to put my father in his place. I guess you did that.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тепер, я сам собі Карсин. Усе життя чекав, щоб хтось батька втихомирив. Здається, тобі вдалося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The phantom leads us north. It has identified itself as the ghost of Vash-Gorn, an orc. So it remembers! It seems that the problem has been solved, but the ghost ignores all my questions. I am burning with curiosity, so I hope we reach our destination soon! We travel only by day because at night the spirit is practically invisible. We have not had any trouble on the road yet, but we &lt;i&gt;are&lt;/i&gt; a rather large company now, so I have not expected it.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тінь веде мене північ. Вона назвалася орком, на ім'я Ваш-Ґорн. Отже, вона пам'ятає! Проблему можна розв'язати. Утім, привид не звертає уваги на мої запитання. Мене аж трусить від цікавості, тож, сподіваюся, скоро ми дістанемося до пункту призначення! Ми подорожуємо лише вдень, бо вночі дух майже невидимий. У дорозі поки що без пригод, але нас &lt;i&gt;уже&lt;/i&gt; доволі багато, тож це цілком очікувано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ship will surely leave before we can reach it!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ми точно тепер не встигнемо на корабель!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are no corpses available.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Немає доступних трупів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a tunnel at the back of the cave! The ghost must have gone through there.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>В глибині печери є тунель! Мабуть, привид зник у ньому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are my companions, and the poor things are just terribly hungry. I’m sorry we didn’t pay the full amount, but maybe we can reach some arrangement.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Це мої супутники: бідолаги так зголодніли… Вибачте, що не заплатила за них. Можливо, ми могли б обговорити якісь варіанти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are not underfed, they’re dead! How can they be dead? They’re horrible!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вони не заморені, вони мертві! Як вони можуть бути мертві? Які ж вони бридкі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are. It makes our job of killing them that much easier!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Таки так. Ти легше їх буде повбивати!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They killed my crew member and played me for a fool! The only arrangement that suits me is the lot of you off my ship, preferably at the bottom of the sea.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Убили члена екіпажу й мають мене за дурня! Мене влаштовує лише один варіант: ви сходите з корабля, бажано, на дно морське.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They must be guarding the cemetery from &lt;i&gt;me&lt;/i&gt;! Maybe Aimucasur really was suspicious. It’s a good thing I’m here already, but how am I going to get out?
+
+Well, I might as well do my experiment and worry about leaving later.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>То вони охороняють кладовище від &lt;i&gt;мене&lt;/i&gt;! Аймуказур, схоже, таки щось запідозрив. На щастя, я вже тут, але як тепер звідси вислизнути?
+
+Що ж, спочатку —експеримент, а як звідси вибратися вже потім придумаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This has taken too long. We will surely miss our meeting with Ardonna now.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Щось я забарився. Тепер я не встигну на зустріч з Ардонною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rich vein into the life-force of the bandit was like nothing I had ever seen, but I knew enough to bend his hunger to my will. With further study, I may one day be able to stop it there, but today I could not: The single-minded hunger consumed the man, it was all I could do to control its direction!
+
+The bandit howled, thrashed, tore at his clothes and bindings, eventually digging into his own flesh. Eventually, when all but the hunger had been flensed from his being, he calmed down. Now hairless, bloody, naked, and unthinking, the bandit was unrecognizable as the man he once was.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ніколи не бачила такого потужного потоку життєвої сили, як у випадку цього розбійника. Утім, мені стало знань, щоб підкорити собі його спрагу. Одного дня я навчуся краще її контролювати, та сьогодні мені не вдалося: чоловік розчинився у цій спразі, і я лише так могла її спрямувати!
+
+Розбійник завивав, борсався, рвав із себе одяг і пута, а згодом почав дерти власну плоть. Зрештою, від його єства нічого, крім спраги, не залишилося, і він заспокоївся. Тепер його було не пізнати: безволосий, закривавлений, голий, він дивився на мене пустим поглядом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This scenario takes place entirely at night.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Події цього сценарію відбуваються вночі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those goblins were too weak, and it would take their spirits a long time to become strong enough to be useful. You are going to raise elvish warriors instead. A few miles into the Grey Woods, there lies an ancient battleground from a civil war hundreds of years ago. You will follow an old elf road there and raise an army of ghosts while I visit Carcyn, a nearby town. We will meet at the end of the elf road by the Great River, and I will explain where we should go next.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ті гобліни заслабкі. Їх духам знадобиться багато часу, щоб стати хоч трохи нам корисними. Натомість ти прикличеш привидів ельфійських воїнів. У глибині Сірого лісу лежить древнє бойовище часів громадянської війни, що відгриміла кількасот років тому. Дістанешся до нього старим ельфійським шляхом і збереш там армію привидів, а я навідаюся у містечко Карсин неподалік. Зустрінемося у кінці ельфійського шляху біля Великої Ріки, і тоді я поясню, що робитимемо далі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Together Again</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Знову разом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Town Defense</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Оборона міста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training Session</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Навчання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traits</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Риси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trolls</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тролі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uhngh.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>М-м-м-м.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uhrrr.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Хр-р-р.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undead</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Мертв'як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>На нижні палуби</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unpleasant</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Неприємність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vash-Gorn</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ваш-Ґорн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Veomyr</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Веомир</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very well. We will do as you suggest.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Гаразд. Зробимо, як ви пропонуєте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vin</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Він</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vindry</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Віндри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait, that guard said there were seven of them, so where are the other two?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Стривайте, той вартовий казав, що їх було сім. Де ж інші двоє?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait, that guard said there were twelve of them, so where are the other five?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Стривайте, той вартовий казав, що їх було дванадцять. Де ж інші п'ятеро?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait. I have heard nothing yet that makes me think I should trust you.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Стривайте. Чому я взагалі маю вам довіряти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We are finished.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>От і все.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We must leave no one alive to report us, or the entire country will become unsafe. We have no choice. We must kill them all.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Жоден не повинен залишитися в живих. Якщо про нас дізнаються, у всій країні не залишиться безпечного місця. Треба всіх убити, іншого вибору немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will first follow the adventures of Ras-Tabahn.
+
+After several days of travel, he approached the frontier town of Carcyn.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Спочатку ми розповімо про пригоди Раса-Табана.
+
+Після кількох днів подорожі, він дістався до прикордонного містечка Карсина.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well &lt;i&gt;I&lt;/i&gt; say you shouldn’t question orders, so pipe down.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>А &lt;i&gt;я&lt;/i&gt; кажу, що є наказ, і його треба виконувати, тому стули пельку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well I can’t smell, so I didn’t know about that.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Я й не зала. А проте, я однаково не маю нюху.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What about the others? They look like the dead ones back on the Green Isle.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>А інші? Вони — як оті мертвяки із Зеленого острова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What happened here, I wonder. Well, no matter. What was bad for these families is good for us. I will animate them, and you will attack. Practice both freezing and life force attacks. You may each choose one soldier from our army for protection, and I will call it up for you. After that, I will not help. I intend most of you to survive this battle, so try not to die.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Цікаво, що тут трапилося. Утім, байдуже. Нещастя, що спіткало цю родину нам лише на руку. Я підніму їх, а ви — нападайте. Вправляйтеся у заморожувальних закляттях і маніпулюванні силою життя. Візьміть собі кожен по бійцю з нашого війська: вони вас захистять. Я подам знак, і після того муситимете покладатися лише на себе. Я очікую, що більшість із вас переживе цей бій, тож не розчаруйте мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What have we here?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Що тут у нас?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What if I said something in defense of the stowaways?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Що як я хочу виправдати тих, що «переховуються»?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What in the world are &lt;i&gt;you&lt;/i&gt;?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>А &lt;i&gt;ти&lt;/i&gt; ще що таке?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What madness is this?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Що це за нісенітниці?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who’s there?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Хто тут?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why are we stuck guarding a cemetery all night?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Чому ми охороняємо всю ніч це кладовище?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why can’t I just raise some of the goblins outside?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Чому б мені не зробити привидів із тих гоблінів надворі?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working through the next day in the bandit’s own keep, I repeated the procedure on several of his gravely wounded companions, though none of them became as strong a specimen as the leader. One of them didn’t survive, but it was no loss — I conscripted him into my army anyway. Then, I made my way to the docks, and under the cover of night, loaded my army into the hold of the waiting ship. The following afternoon, I embarked as a normal passenger.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Наступний день я провела в розбійничому таборі: повторила процедуру на кількох тяжкопоранених спільниках грабіжника, але жоден із них не став настільки могутнім, як їхній ватажок. Один помер у процесі, та байдуже. Він однаково став до лав мого війська. Тоді я прокралася у доки і під покровом ночі завантажила військо у трюм пришвартованого корабля. Наступного ж вечора я піднялася на борт як звичайний пасажир.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wynran</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Винран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XP:</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Досвід:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, I can show you how to make your own, but have you not solved the problem already with your ghosts?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Так. Можу показати, як можна створити власного. Та чи не розв'язали ви вже проблему пам'яті у випадку привидів?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes. Dead.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Так. Вмер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You and that... other person. Who is that?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ти, і отой… другий. Хто то такий?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are Carcyn the Third I presume?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ви, мабуть, Карсин Третій?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can no longer recruit skeletons and skeleton archers.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ви більше не можете оживляти кістяків і кістяків-лучників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now recruit dark adepts!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тепер можна вербувати адептів темної магії!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now recruit ghouls!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Тепер можна наймати гулів!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now recruit skeletons and skeleton archers! You will lose this ability if the guardhouse is retaken by the guards!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ви тепер можете оживляти кістяків і кістяків-лучників! Якщо вартівню відіб'ють, ви втратите цю здатність!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can recruit from anywhere on the two highest decks.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ви можете наймати бойові одиниці будь-де на двох верхніх палубах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can recruit from in front of each dark adept during the first turn only.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Рекрутувати бойові одиниці можна в клітинці перед кожним адептом темної магії, але лише впродовж першого ходу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You do not have enough gold to recruit that unit</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вам бракує золота, щоб найняти цю бойову одиницю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don’t have enough gold to raise that unit.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вам бракує золота, щоб підняти цю бойову одиницю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don’t have enough gold to summon the bat.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Вам бракує золота, щоб прикликати кажана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have earned my wrath, wench. Death will be too good for you!</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ну все, хвойдо. Зараз тобі смерть видасться благословінням!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have no more time.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ви вичерпали відведений час.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may watch.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Можеш подивитися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must be goblins. You will stand out of my way if you wish to live.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ви, мабуть, гобліни. Геть з мого шляху, якщо бажаєте жити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You stay out of this, son.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>І не думай навіть, синку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will not earn gold this scenario, but your gold from the previous scenario will be available in the next.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Упродовж цього сценарію ви не зароблятимете золото, але залишок після минулого сценарію буде перенесено у наступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You! Dark girl. Why are you not in your cabin?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Дівчино в темному! Чому не в каюті?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You’re a ghost... a real ghost! I will indeed follow you. Lead on.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Ти — привид… Справжній привид! Я піду за тобою — веди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You’re the only Carcyn for me.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>Для мене, ти — Карсин Єдиний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plural^As you wish. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>plural^Як бажаєте. (&lt;i&gt;Кхе-кхе&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plural^You may watch.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>plural^Можете подивитися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>self_female^Can I help?</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>self_female^Можна я допоможу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Friend?” (&lt;i&gt;Giggle&lt;/i&gt;) Oh, yes, we’re very good friends.</seg>
+      </tuv>
+      <tuv lang="uk-UA">
+        <seg>«Подруга?» &lt;i&gt;(хихоче)&lt;/i&gt; Так, ми дуже близькі друзі.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
