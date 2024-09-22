@@ -8206,6 +8206,14 @@ The central island of the archipelago is also called ‘Morogor’.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you feeling well?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190230Z" creationid="archdron" creationdate="20240922T190230Z">
+        <seg>Ви нормально почуваєтеся?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you our relief arriving? Does this mean we get to leave here now?</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -29796,6 +29804,14 @@ Example: if you strike three times with 50% accuracy, you will always hit at lea
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190331Z" creationid="archdron" creationdate="20240922T190331Z">
+        <seg>Як?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, I am afraid that not everyone will follow you on so perilous an adventure. First, you must prove you are not afraid of danger. If you leave now, many will think the mission is but an excuse to flee.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -30852,6 +30868,14 @@ Master hunters are employed by any group living in or passing through wild count
       </tuv>
       <tuv lang="uk-UA">
         <seg>Бачу. Він наче палаючий факел для мого внутрішнього ока. Я думаю, внучко, що ти зробила правильний вибір; він дійсно той, кому повинна перейти Книга Крелану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don’t fancy wading in the water to fight these things.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190319Z" creationid="archdron" creationdate="20240922T190319Z">
+        <seg>Не хотілося б мені лізти у воду до тих істот.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43731,6 +43755,14 @@ Though few wolves could even stand with the weight of a true orc on their back, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No problem. We can lure them onto land.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190342Z" creationid="archdron" creationdate="20240922T190328Z">
+        <seg>Не проблема. Виманимо їх на сушу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No random map generators found.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -50645,6 +50677,14 @@ Rest-healing is an exception to the rule — if a unit doesn’t do anything for
       </tuv>
       <tuv lang="uk-UA">
         <seg>Права панель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right away sir.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190143Z" creationid="archdron" creationdate="20240922T190143Z">
+        <seg>Слухаюся, пане.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75368,6 +75408,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Так, так, Пане Деоране! Якщо ми битимося проти мерців у відкритому полі чи в лісі, нас точно всіх переб'ють. Але, якщо ми підготуємо захист та підсилимо стіни міста, ми, може, відіб'ємо атаку мерців і навіть знищимо самого ліча-мудреця.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, yes. I’m quite all right.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190242Z" creationid="archdron" creationdate="20240922T190242Z">
+        <seg>Так, так. Я почуваюся цілком нормально.</seg>
       </tuv>
     </tu>
     <tu>
