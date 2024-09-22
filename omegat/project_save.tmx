@@ -5620,6 +5620,14 @@ Error message: $msg</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actually, I expect you will follow them into the ground if you try to harm us.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190056Z" creationid="archdron" creationdate="20240922T190056Z">
+        <seg>Насправді, я певен, що ви ляжете до них у сиру землю, якщо спробуєте нам зашкодити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Actually, Tyegëa is your grandmother.</seg>
       </tuv>
       <tuv lang="uk-UA">
