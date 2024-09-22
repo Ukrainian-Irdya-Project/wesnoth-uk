@@ -62089,6 +62089,14 @@ Though not trained for any sort of combat, if need arises an Arch Mage can unlea
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The town is hardly destroyed. I just encouraged a change of leadership.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T185538Z" creationid="archdron" creationdate="20240922T185538Z">
+        <seg>Чому ж, містечко й досі стоїть. Я просто посприяв зміні влади.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The traits that are available to most non‐undead units are &lt;ref&gt;dst='traits_intelligent' text='intelligent'&lt;/ref&gt;, &lt;ref&gt;dst='traits_quick' text='quick'&lt;/ref&gt;, &lt;ref&gt;dst='traits_resilient' text='resilient'&lt;/ref&gt;, and &lt;ref&gt;dst='traits_strong' text='strong'&lt;/ref&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -77332,6 +77340,14 @@ Some eras and scenarios may automatically enable this option.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You! You have destroyed the town of Carcyn!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T185510Z" creationid="archdron" creationdate="20240922T185510Z">
+        <seg>Ти! Це ти знищив містечко Карцин!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You, on the road! Are you of the Northern Alliance or not?</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -77794,6 +77810,14 @@ The weather will also change randomly, affecting the layout of the map.
       </tuv>
       <tuv lang="uk-UA">
         <seg>Твоїм словам не можна довіряти. Приготуйся зустрітися зі своїми богами!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your words mock us. Those humans were valuable trading partners of ours. We will have justice!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T185850Z" creationid="archdron" creationdate="20240922T185850Z">
+        <seg>Твої слова — суцільне знущання. Ми мали торгівлю з тими людьми. Ми відновимо справедливість!</seg>
       </tuv>
     </tu>
     <tu>
