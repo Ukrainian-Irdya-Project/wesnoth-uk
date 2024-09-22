@@ -26610,6 +26610,14 @@ Village</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good. We ended with a fair amount of gold.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184800Z" creationid="archdron" creationdate="20240922T184800Z">
+        <seg>Чудово, ми зібрали доволі багато золота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good. We need the steel for our own war in the deep. I formally place the might of the merfolk at your disposal!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -29568,6 +29576,14 @@ Example: if you strike three times with 50% accuracy, you will always hit at lea
       </tuv>
       <tuv lang="uk-UA">
         <seg>Перескакуйте від замку до замку, б'ючись на центральному острові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hopefully this will be enough gold.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184718Z" creationid="archdron" creationdate="20240922T184718Z">
+        <seg>Сподіваюся, цього золота вистачить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55887,6 +55903,14 @@ The creation of these is itself no mean feat, but the real danger in encounterin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Splendid! These birds could be quite useful.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184842Z" creationid="archdron" creationdate="20240922T184842Z">
+        <seg>Розкішно! Ці птахи можуть стати нам у пригоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Splendid. Here is what I propose. First, we part ways for a time, and you raise a force of ghosts following my instructions. Meanwhile, I am going to try to train some local peasants in the magical arts. I don’t expect much from that uneducated rabble, but hopefully some will be intelligent enough to add to our firepower. When we reunite, you will show me how to make one of those shambling ghouls. I am actually in no hurry, as they have a terrible odor.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -71168,6 +71192,14 @@ Our mines produce $player_$side_number|.mining.gold|g</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Ми мандрували великими океанами та підкорили могутні імперії. Чи не варто зачекати, поки наші сили відновляться?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have won, but I am afraid this may not be enough gold.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184739Z" creationid="archdron" creationdate="20240922T184739Z">
+        <seg>Ми перемогли, та, боюся, цього золота буде замало.</seg>
       </tuv>
     </tu>
     <tu>
