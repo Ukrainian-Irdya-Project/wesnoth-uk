@@ -75740,6 +75740,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can now recruit chocobones!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T185017Z" creationid="archdron" creationdate="20240922T185017Z">
+        <seg>Тепер можна наймати дронтярів!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can now recruit dark adepts!</seg>
       </tuv>
       <tuv lang="uk-UA">
