@@ -32400,6 +32400,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I wonder if it could carry someone light. A skeleton maybe.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184554Z" creationid="archdron" creationdate="20240922T184554Z">
+        <seg>Цікаво, я чи витримає він вершника? Неважкого якось, кістяка якогось, може.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I wonder if the Book of Crelanu is behind this. The Book is not evil in itself, but the power it gives tends to magnify any evil in the reader’s soul. Delfador, has anyone but you opened its covers since you got it from us?</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -45337,6 +45345,14 @@ Behavior: $ai_controller.side_$ally_side|_current_settings.currently_doing_behav
       </tuv>
       <tuv lang="uk-UA">
         <seg>Ого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, you were right!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184505Z" creationid="archdron" creationdate="20240922T184505Z">
+        <seg>Ого, а ти вгадав!</seg>
       </tuv>
     </tu>
     <tu>
