@@ -29756,6 +29756,14 @@ Example: if you strike three times with 50% accuracy, you will always hit at lea
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How odd. I wonder what they are from. A gryphon perhaps?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183648Z" creationid="archdron" creationdate="20240922T183648Z">
+        <seg>Дивина. Цікаво, чиї вони. Можливо, грифонячі?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, I am afraid that not everyone will follow you on so perilous an adventure. First, you must prove you are not afraid of danger. If you leave now, many will think the mission is but an excuse to flee.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -33790,6 +33798,14 @@ Normally you can undo a unit’s movement, as long as an event with a randomized
       </tuv>
       <tuv lang="uk-UA">
         <seg>Звісно. Яким би дурнем він не був, мені шкода чути про його смерть. Якщо він помер, схоже, мені доведеться керувати містянами, щоб прогнати бандитів з міста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indeed. Let us see.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183711Z" creationid="archdron" creationdate="20240922T183711Z">
+        <seg>І то правда. Погляньмо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62833,6 +62849,14 @@ Skeletons and zombies killed cattle and fired fields. &lt;i&gt;“Fear and obey 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are some large bones here. I can see claws and wings.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183607Z" creationid="archdron" creationdate="20240922T183607Z">
+        <seg>Якісь доволі великі кості тут. Бачу серед них кігті й крила.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are strong magical wards that have hidden the way and bar our entry, but I am capable of dispelling them. It will take some time so stand back and get what rest you can. We are likely to face fierce opposition once we enter the caverns.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -72236,6 +72260,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
       </tuv>
       <tuv lang="uk-UA">
         <seg>Тоді добре. Якщо ми вже тут, чому б нам не... допомогти вам прогнати орків? Це допоможе селянам повернутися до їхніх справ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, there is an easy way to find out.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183734Z" creationid="archdron" creationdate="20240922T183734Z">
+        <seg>Ну, це не так уже й важко дізнатися.</seg>
       </tuv>
     </tu>
     <tu>
