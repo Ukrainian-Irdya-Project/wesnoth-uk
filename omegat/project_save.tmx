@@ -4764,6 +4764,14 @@ However, a halberd is notably more expensive to craft than a spear, and in the h
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A large flightless bird would be my guess.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184324Z" creationid="archdron" creationdate="20240922T184324Z">
+        <seg>Я б сказав, що це якийсь великий нелетючий птах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lich has it? We were fleeing liches in the first place.</seg>
       </tuv>
       <tuv lang="uk-UA">
