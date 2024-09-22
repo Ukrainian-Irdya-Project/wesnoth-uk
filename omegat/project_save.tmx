@@ -49117,6 +49117,14 @@ Woses are utterly unwarlike, but possess a great strength. They are, however, ne
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ras-Tabahn’s party reached the end of the elf road near the Great River where they were to wait for Ardonna. As they arrived, another party did as well.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190828Z" creationid="archdron" creationdate="20240922T190828Z">
+        <seg>Рас-Табан із супутниками дісталися кінця ельфійського тракту біля Великої Ріки, де мали чекати на Ардонну. Одночасно із ними прибула й Ардонна зі своїм загоном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rash</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -78766,6 +78774,14 @@ The weather will also change randomly, affecting the layout of the map.
       </tuv>
       <tuv lang="uk-UA">
         <seg>Оновлюваний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>addressed_plural^Have you never been fishing before? With bait of course.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190412Z" creationid="archdron" creationdate="20240922T190412Z">
+        <seg>addressed_plural^Ви що, не рибалили ніколи? Наживкою, звісно.</seg>
       </tuv>
     </tu>
     <tu>
