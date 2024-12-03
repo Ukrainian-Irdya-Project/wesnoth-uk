@@ -51767,8 +51767,8 @@ SW — The Midlands.</seg>
       <tuv lang="en-US">
         <seg>Saurians</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T172422Z">
-        <seg>Заврійці</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191236Z">
+        <seg>Ящури</seg>
       </tuv>
     </tu>
     <tu>
@@ -72494,6 +72494,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183734Z" creationid="archdron" creationdate="20240922T183734Z">
         <seg>Ну, це не так уже й важко дізнатися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, these combatants were going to get a second chance for glory when they fought for me. The more strong-willed among them may even remember desiring it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191417Z" creationid="archdron" creationdate="20241203T191233Z">
+        <seg>Що ж, ті вояки матимуть ще одну нагоду здобути собі славу, як битимуться на моєму боці. А ті, кому стане сили волі, можливо ще й згадають, як її прагли.</seg>
       </tuv>
     </tu>
     <tu>
