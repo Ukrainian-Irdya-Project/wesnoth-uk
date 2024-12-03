@@ -28224,8 +28224,8 @@ The means by which gryphons are able to fly despite their great weight has been 
       <tuv lang="en-US">
         <seg>Have you never been fishing before? With bait of course.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165324Z" creationid="archdron" creationdate="20241203T165324Z">
-        <seg>Чи ти рибалила ніколи? Наживкою, звісно.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165452Z" creationid="archdron" creationdate="20241203T165324Z">
+        <seg>Чи ти вперше рибалиш? Наживкою, звісно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30882,8 +30882,8 @@ Master hunters are employed by any group living in or passing through wild count
       <tuv lang="en-US">
         <seg>I don’t fancy wading in the water to fight these things.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165152Z" creationid="archdron" creationdate="20240922T190319Z">
-        <seg>Не хотілося б лізти у воду до тих істот.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165521Z" creationid="archdron" creationdate="20240922T190319Z">
+        <seg>Не хотілося б у воді з тими істотами вовтузитися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64485,6 +64485,14 @@ Do you want to try to install them?</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Це потрібно з практичних міркувань: важко поранений боєць не зможе тримати оборону або вбити ворога. Під час атаки і контратаки він, найімовірніше, загине. При цьому, відправляючи його на вірну смерть, будуть втрачені зароблені ним очки досвіду. Завербувати йому заміну може бути неможливим, оскільки лідер знаходиться не в укритті, або у вас замало золота. Але навіть якщо ви і зможете завербувати заміну, часто місце вербування знаходиться далеко від поля бою. Тому не марнуйте ваших бійців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is going to cost me, but I want to keep some gold around for emergencies — I think 50 is about right. I’d better send someone to collect some. (&lt;i&gt;Cough, cough&lt;/i&gt;) I hope I can lure these fish onto land. Maybe I should recruit some bait.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165719Z" creationid="archdron" creationdate="20241203T165719Z">
+        <seg>Це може нам дорого обійтися, але мушу мати трохи золота про всяк випадок. Гадаю, 50 золотих вистачить. Треба послати когось зібрати грошенят. (&lt;i&gt;Кхе-кхе&lt;/i&gt;) Сподіваюся, цих риб'ят якось вдасться виманити на сушу. Треба знайти наживку.</seg>
       </tuv>
     </tu>
     <tu>
