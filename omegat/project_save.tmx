@@ -72054,6 +72054,14 @@ After several days of travel, he approached the frontier town of Carcyn.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will help you drive off this foe if you will consider your share paid in full.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T193206Z" creationid="archdron" creationdate="20241203T193206Z">
+        <seg>Ми допоможемо позбутися цього ворога, і вважатимемо, що виплатили вашу частку повністю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will help you fight them off until the reinforcements arrive.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -73830,6 +73838,14 @@ That is a question which is easily answered by a necromancer.</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Коли хост (не ви) почав гру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the mage isss dead and her dead horde put to ressst, we agree. We will have been compensssated adequately.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T193405Z" creationid="archdron" creationdate="20241203T193405Z">
+        <seg>Як уб'ємо чарівницю та розправимос-с-ся з її ордою мерців, тоді згода: вважатимемо, що розплатилис-с-ся.</seg>
       </tuv>
     </tu>
     <tu>
