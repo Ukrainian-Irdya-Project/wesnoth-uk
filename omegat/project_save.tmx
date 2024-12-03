@@ -11696,8 +11696,8 @@ Income</seg>
       <tuv lang="en-US">
         <seg>Blianxkep</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191442Z" creationid="archdron" creationdate="20241203T191442Z">
-        <seg>Блянскеп</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191735Z" creationid="archdron" creationdate="20241203T191442Z">
+        <seg>Бляншкеп</seg>
       </tuv>
     </tu>
     <tu>
@@ -24140,6 +24140,14 @@ Outfitted with only a dagger and saber, fencers are light on their feet and usef
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firssst, pay us our ssshare.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192000Z" creationid="archdron" creationdate="20241203T192000Z">
+        <seg>С-с-сперш-ш-шу з-заплати наш-ш-шу час-с-стку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First Afternoon</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -30280,6 +30288,14 @@ Master hunters are employed by any group living in or passing through wild count
       </tuv>
       <tuv lang="uk-UA">
         <seg>Я Ур-Тородор, старійшина цього лісу. Хто ви, люди? Ви не можете пройти на наш острів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am a mage and not a threat to you gentle... reptiles. I wish only to animate some spirits, so I won’t disturb your salvage operation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192234Z" creationid="archdron" creationdate="20241203T192234Z">
+        <seg>Я — лиш чарівник, і вам нічим не загрожую, мирні… рептилії. Я хочу лиш прикликати кілька духів, і не заважатиму вашій роботі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60331,6 +60347,14 @@ The myriad applications of this rarely occur to land dwellers, who simply regard
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The fish people gave good value for the last load. More metal of that type is desired.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191937Z" creationid="archdron" creationdate="20241203T191937Z">
+        <seg>Рибники непогано заплатили на минулий вантаж. Треба ще такого металу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fleet is starving, we’ll never pacify this island before we all die!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -70436,6 +70460,14 @@ To install an add-on, select it from the list and click the &lt;bold&gt;text='+'
       </tuv>
       <tuv lang="uk-UA">
         <seg>Чекайте, чекайте, послухайте! Він розповів, що в лісах на південь звідси є сильне джерело темної енергії. Він повів нас туди і навчив нас викликати мерців, щоб вони билися за нас. Я одразу вирішив, що це божевілля, але мої брати були слабкими та дурними, тому швидко впали під вплив проклятої магії. Вони підняли мерців, яких не змогли контролювати, і згодом стали рабами свого нового володаря!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait, who approaches?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192023Z" creationid="archdron" creationdate="20241203T192023Z">
+        <seg>Стривай, хто це йде?</seg>
       </tuv>
     </tu>
     <tu>
