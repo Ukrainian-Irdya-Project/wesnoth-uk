@@ -5624,6 +5624,14 @@ Error message: $msg</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actually, I am searching for that secret now. But could you follow the orders of a woman?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T194557Z" creationid="archdron" creationdate="20241203T194557Z">
+        <seg>Насправді я й сама шукаю, як розкрити ту таємницю. Та чи ладен ти підкорятися жінці,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Actually, I believe it is truly dead.</seg>
       </tuv>
       <tuv lang="uk-UA">
