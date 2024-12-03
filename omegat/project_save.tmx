@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5622,8 +5622,8 @@ Error message: $msg</seg>
       <tuv lang="en-US">
         <seg>Actually, I expect you will follow them into the ground if you try to harm us.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190056Z" creationid="archdron" creationdate="20240922T190056Z">
-        <seg>Насправді, я певен, що ви ляжете до них у сиру землю, якщо спробуєте нам зашкодити.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T164710Z" creationid="archdron" creationdate="20240922T190056Z">
+        <seg>Насправді я певен, що ви ляжете до них у сиру землю, якщо спробуєте нам зашкодити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48361,6 +48361,36 @@ X-Generator: Omegat 6.0</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Project-Id-Version: 1.10
+Report-Msgid-Bugs-To: https://bugs.wesnoth.org/
+POT-Creation-Date: 2024-04-10 17:05 UTC
+PO-Revision-Date: 2024-03-22 12:37+0200
+Last-Translator: AncientGeneral &lt;greatgeneral12 {AT} gmail DT com&gt;
+Language-Team: 
+Language: uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11 ? 0 : n%10&gt;=2 &amp;&amp; n%10&lt;=4 &amp;&amp; (n%100&lt;10 || n%100&gt;=20) ? 1 : 2);
+X-Generator: Poedit 3.0.1</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T164519Z" creationid="archdron" creationdate="20241203T164519Z">
+        <seg>[!]Project-Id-Version: 
+Report-Msgid-Bugs-To: https://bugs.wesnoth.org/
+POT-Creation-Date: 2024-03-18 00:07 UTC
+PO-Revision-Date: 2024-07-04 17:39+0300
+Last-Translator: Andrii Serbovets &lt;serbovets.translation@gmail.com&gt;
+Language-Team: 
+Language: uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11 ? 0 : n%10&gt;=2 &amp;&amp; n%10&lt;=4 &amp;&amp; (n%100&lt;10 || n%100&gt;=20) ? 1 : 2);
+X-Generator: Omegat 6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Promising spearmen in the armies of Wesnoth are often graduated to wielding pikes, and are outfitted with something far superior to the motley collection of leather armor they wore as recruits. A pike is a much longer weapon than a spear, and thus facilitates different combat tactics. A wall of pikemen is the bane of any cavalry charge, and with proper discipline and tactics, pikemen can also hold most other infantry at bay.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -78782,6 +78812,14 @@ The weather will also change randomly, affecting the layout of the map.
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190412Z" creationid="archdron" creationdate="20240922T190412Z">
         <seg>addressed_plural^Ви що, не рибалили ніколи? Наживкою, звісно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>addressed_plural^This is going to cost us, but I want to keep some gold around for emergencies — I think 50 is about right. You help me collect some. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165119Z" creationid="archdron" creationdate="20241203T164655Z">
+        <seg>addressed_plural^Це коштуватиме нам часу, проте мені б хотілося мати трохи золота про всяк випадок. Гадаю, 50 золотих вистачить. Допоможіть-но мені їх зібрати. (&lt;i&gt;Кхе-кхе&lt;/i&gt;)</seg>
       </tuv>
     </tu>
     <tu>
