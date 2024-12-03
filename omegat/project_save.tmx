@@ -22604,6 +22604,14 @@ Enter at Your Own Risk!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Every time...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192702Z" creationid="archdron" creationdate="20241203T192702Z">
+        <seg>І так щоразу…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Every turn, each side in a scenario gets a chance to make their move. Once you’ve completed everything you wish to do this turn, click on the &lt;b&gt;End Turn&lt;/b&gt; button in the bottom right of the screen. The other sides, whether controlled by the AI or other human players, will then make their move. Some scenarios must be completed in a certain number of turns. You can see what turn it is, and any applicable turn limit, next to the flag icon at the top of the screen.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -26654,6 +26662,14 @@ Village</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good. Now I can practice recruiting ghosts.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192724Z" creationid="archdron" creationdate="20241203T192724Z">
+        <seg>Нарешті, тепер можна повправлятися у прикликанні духів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good. The Midlands are probably an orc-infested ruin by now.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -29936,6 +29952,14 @@ Example: if you strike three times with 50% accuracy, you will always hit at lea
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human, take me with you!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192826Z" creationid="archdron" creationdate="20241203T192809Z">
+        <seg>Людська с-с-самко, забери мене із с-с-собою!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Human, ye ha’ fought well. I am Ulrek, chieftain o’ the clan of Norlund. My house is in yer debt today. But who are ye and what do ye do in these lands?</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -32344,6 +32368,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
       </tuv>
       <tuv lang="uk-UA">
         <seg>Колись я був великим владикою... Я керував арміями! Іліа-Малал обіцяв, що я поведу їх знову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I was only informing you out of courtesy. In truth, I don’t require your permission.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T193103Z" creationid="archdron" creationdate="20241203T193103Z">
+        <seg>Я вас лиш попередила лиш для звичайності: ваш дозвіл на те мені не потрібен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74402,6 +74434,14 @@ That is a question which is easily answered by a necromancer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why should I allow that? Your people attacked me!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192851Z" creationid="archdron" creationdate="20241203T192851Z">
+        <seg>Це ще чому? Твої родичі напали на мене!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why should I trust you, or your information? I don’t even know your name, and you have this nasty habit of mysteriously vanishing!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -75994,6 +76034,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Тепер можна вербувати адептів темної магії!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now recruit ghosts!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T192750Z" creationid="archdron" creationdate="20241203T192750Z">
+        <seg>Тепер можна наймати духів!</seg>
       </tuv>
     </tu>
     <tu>
