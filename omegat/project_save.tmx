@@ -11694,6 +11694,14 @@ Income</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blianxkep</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191442Z" creationid="archdron" creationdate="20241203T191442Z">
+        <seg>Блянскеп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Block</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -17732,8 +17740,8 @@ Note: You need to use the default map settings for the scenario to work right.</
       <tuv lang="en-US">
         <seg>Defeat all enemy leaders</seg>
       </tuv>
-      <tuv lang="uk-UA">
-        <seg>Вбийте всіх лідерів противника</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191503Z">
+        <seg>Убийте всіх командирів противника</seg>
       </tuv>
     </tu>
     <tu>
@@ -37156,6 +37164,14 @@ Full paladins are generally not quite as fearsome as the ‘Grand Knights’ tha
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Krissaz</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191429Z" creationid="archdron" creationdate="20241203T191429Z">
+        <seg>Кріссаз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Krog</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -42639,6 +42655,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Нага буревій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nagas</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T191432Z" creationid="archdron" creationdate="20241203T191432Z">
+        <seg>Наґас</seg>
       </tuv>
     </tu>
     <tu>
