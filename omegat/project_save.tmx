@@ -5626,8 +5626,8 @@ Error message: $msg</seg>
       <tuv lang="en-US">
         <seg>Actually, I am searching for that secret now. But could you follow the orders of a woman?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T194557Z" creationid="archdron" creationdate="20241203T194557Z">
-        <seg>Насправді я й сама шукаю, як розкрити ту таємницю. Та чи ладен ти підкорятися жінці,</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T194607Z" creationid="archdron" creationdate="20241203T194557Z">
+        <seg>Насправді я й сама шукаю, як розкрити ту таємницю. Та чи ладен ти підкорятися жінці?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31496,6 +31496,14 @@ Master hunters are employed by any group living in or passing through wild count
       </tuv>
       <tuv lang="uk-UA">
         <seg>Я досяг цитаделі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have ssstared into the darknesss between the starsss and not been intimidated by the void, but your mind holds a darknesss of another kind, frightening and forbidden by my clan. I sssubmit to your power. Now that I know you are female, I will find it easier as it isss the way of my kind.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T194918Z" creationid="archdron" creationdate="20241203T194918Z">
+        <seg>Я вдивлявс-с-ся в міжзоряну темряву й не злякавс-с-ся, але в тобі с-с-сидить інша темрява — нас-с-стільки с-с-страшна, що мій клан її відкинув. Я підкоряюс-с-ся твоїй владі. І якщо ти дійс-с-сно жінка, так навіть легш-ш-ше, бо так заведено і в нас-с-с.</seg>
       </tuv>
     </tu>
     <tu>
