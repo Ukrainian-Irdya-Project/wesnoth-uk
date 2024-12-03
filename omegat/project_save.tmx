@@ -44487,6 +44487,14 @@ Though few wolves could even stand with the weight of a true orc on their back, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nor do I. Your planets are quite cryptic.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T195038Z" creationid="archdron" creationdate="20241203T195038Z">
+        <seg>Мені теж. Твої планети говорять загадками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -63971,6 +63979,14 @@ Well, I might as well do my experiment and worry about leaving later.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They reveal what they will.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T195152Z" creationid="archdron" creationdate="20241203T195047Z">
+        <seg>Ш-ш-шляхи планет недовідомі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They rode quickly northward. Day and night, they fled without reprieve until they finally crossed back into Kerlath Province. Deoran and his men entered the forts guarding the border to Wesnoth, the undead close on their heels.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -69828,6 +69844,14 @@ To install an add-on, select it from the list and click the &lt;bold&gt;text='+'
       </tuv>
       <tuv lang="uk-UA">
         <seg>Добре, але де тоді вхід?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very well, come along. I am Ardonna.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T194934Z" creationid="archdron" creationdate="20241203T194934Z">
+        <seg>Чудово, ходімо тоді. Я — Ардонна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75778,6 +75802,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Так... ваш перший король приніс його з-за моря, так? Ти володієш ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yesss, but the planetsss tell me your name isss now untrue. I do not underssstand thisss.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T195051Z" creationid="archdron" creationdate="20241203T195014Z">
+        <seg>Так, але планети кажуть, що твоє ім'я тепер інш-ш-ше. Я цього не розумію.</seg>
       </tuv>
     </tu>
     <tu>
