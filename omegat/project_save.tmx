@@ -28222,6 +28222,14 @@ The means by which gryphons are able to fly despite their great weight has been 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have you never been fishing before? With bait of course.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165324Z" creationid="archdron" creationdate="20241203T165324Z">
+        <seg>Чи ти рибалила ніколи? Наживкою, звісно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Have you no faith in your brother, Baran?</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -30874,8 +30882,8 @@ Master hunters are employed by any group living in or passing through wild count
       <tuv lang="en-US">
         <seg>I don’t fancy wading in the water to fight these things.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190319Z" creationid="archdron" creationdate="20240922T190319Z">
-        <seg>Не хотілося б мені лізти у воду до тих істот.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165152Z" creationid="archdron" creationdate="20240922T190319Z">
+        <seg>Не хотілося б лізти у воду до тих істот.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50727,6 +50735,14 @@ Rest-healing is an exception to the rule — if a unit doesn’t do anything for
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right away sir. Are you feeling well?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165225Z" creationid="archdron" creationdate="20241203T165225Z">
+        <seg>Слухаюся, пане. Ви нормально почуваєтеся?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right on time.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -64473,6 +64489,14 @@ Do you want to try to install them?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is going to cost us, but I want to keep some gold around for emergencies — I think 50 is about right. Help me collect some. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165221Z" creationid="archdron" creationdate="20241203T165221Z">
+        <seg>Це коштуватиме нам часу, проте мені б хотілося мати трохи золота про всяк випадок. Гадаю, 50 золотих вистачить. Допоможи-но мені їх зібрати. (&lt;i&gt;Кхе-кхе&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is going to get ugly...</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -75452,8 +75476,8 @@ Woses are not warriors by any means, but their great strength can easily be turn
       <tuv lang="en-US">
         <seg>Yes, yes. I’m quite all right.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190242Z" creationid="archdron" creationdate="20240922T190242Z">
-        <seg>Так, так. Я почуваюся цілком нормально.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165135Z" creationid="archdron" creationdate="20240922T190242Z">
+        <seg>Так, так. Я все добре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78810,8 +78834,8 @@ The weather will also change randomly, affecting the layout of the map.
       <tuv lang="en-US">
         <seg>addressed_plural^Have you never been fishing before? With bait of course.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190412Z" creationid="archdron" creationdate="20240922T190412Z">
-        <seg>addressed_plural^Ви що, не рибалили ніколи? Наживкою, звісно.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165336Z" creationid="archdron" creationdate="20240922T190412Z">
+        <seg>addressed_plural^Чи ви не рибалили ніколи? Наживкою, звісно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84454,6 +84478,14 @@ ending_vowel=о|у</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>self_female^Можна я допоможу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>self_female^I don’t fancy wading in the water to fight these things.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T165304Z" creationid="archdron" creationdate="20241203T165304Z">
+        <seg>Не хотіла б я у воді з тими істотами вовтузитися.</seg>
       </tuv>
     </tu>
     <tu>
