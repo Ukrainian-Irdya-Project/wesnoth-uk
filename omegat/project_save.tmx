@@ -70656,6 +70656,14 @@ To install an add-on, select it from the list and click the &lt;bold&gt;text='+'
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Walking Trees</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T195200Z" creationid="archdron" creationdate="20241203T195200Z">
+        <seg>Ходячі дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Walking corpses are usually used by weaker practitioners of the black arts, who pilfer dead bodies to practice their profane magic. Alone, they are slow and weak, although they can become dangerous in large groups. Any unit slain by a Walking Corpse will be plagued with undeath and become one as well.</seg>
       </tuv>
       <tuv lang="uk-UA">
