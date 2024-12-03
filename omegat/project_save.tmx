@@ -51767,8 +51767,8 @@ SW — The Midlands.</seg>
       <tuv lang="en-US">
         <seg>Saurians</seg>
       </tuv>
-      <tuv lang="uk-UA">
-        <seg>Ящіри</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T172422Z">
+        <seg>Заврійці</seg>
       </tuv>
     </tu>
     <tu>
@@ -61667,6 +61667,14 @@ Please report the bug.</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Призначення масок, які носять ці створіння, невідоме, так само як і особи, що за ними ховаються. Цих жахливих істот рідко бачили живі, а тим, хто вижив, було не до того, щоб роздивлятися своїх ворогів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The question remains whether or not it is wise to trust him. As he said, I don’t need to at this time, but if we are to travel together it will become necessary. He has shown me something marvelous in the ghosts, so that is a large mark in his favor. On consideration, I have decided to trust him, but only provisionally. For now, we are both vulnerable, and he must know that attacking me would be unwise. However, if he were to become indestructible first, I would do well to stay alert.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241203T172355Z" creationid="archdron" creationdate="20241203T172355Z">
+        <seg>Утім, </seg>
       </tuv>
     </tu>
     <tu>
