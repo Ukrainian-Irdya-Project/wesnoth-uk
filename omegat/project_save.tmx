@@ -76010,6 +76010,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are greeted daughter of elves. Why does the forest moan in despair?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T204156Z" creationid="archdron" creationdate="20241219T204156Z">
+        <seg>Вітання тобі, дочко ельфійського народу. Чому лісом шириться стогін розпачу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are merely a servant of the power that corrupted you, lich! You have not mastered the darkness; it, instead, has enslaved you.</seg>
       </tuv>
       <tuv lang="uk-UA">
