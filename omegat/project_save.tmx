@@ -45337,8 +45337,8 @@ Behavior: $ai_controller.side_$ally_side|_current_settings.currently_doing_behav
       <tuv lang="en-US">
         <seg>Of course I know about Crelanu. But can we force him to reveal his knowledge to us?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T211816Z" creationid="archdron" creationdate="20241219T211816Z">
-        <seg>Звісно я знаю про Крелану. Але як його змусити відкрити нам те, що йому відомо?</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T212042Z" creationid="archdron" creationdate="20241219T211816Z">
+        <seg>Звісно проходили ми Крелану. Але як його змусити відкрити нам те, що йому відомо?</seg>
       </tuv>
     </tu>
     <tu>
@@ -58539,6 +58539,14 @@ of Healing</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Це повинно закінчитися. Пошліть до них від мого імені і імені Архімага Леолина; ні, скажіть їм, що зараз я говорю від імені Короля!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That shouldn’t be necessary. I have also learned that he wrote a book containing all his secrets, which must include all he knows of immortality. We need only borrow this book. I knew that getting that book was not something I could accomplish on my own, but now, with a force such as ours, it should be easily done.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T212718Z" creationid="archdron" creationdate="20241219T212718Z">
+        <seg>Його не доведеться змушувати. Я також дізнався, що описав усі свої секрети у книзі, зокрема й те, що стосується безсмертя. Усе що нам треба — позичити в нього ту книгу. Самому його книгу мені було не добути, таке військо, як у тебе, значно полегшує задачу.</seg>
       </tuv>
     </tu>
     <tu>
