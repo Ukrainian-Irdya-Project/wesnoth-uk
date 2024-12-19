@@ -9118,6 +9118,14 @@ A detailed explanation of healing may be found in the &lt;i&gt;Gameplay&lt;/i&gt
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack? No, I cannot. Most of my people won’t come here; it is only duty that drives me. However, the woods themselves are disturbed, and they will cast you out on their own. I can feel them awaken.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T182833Z" creationid="archdron" creationdate="20241219T182833Z">
+        <seg>Пройти? Звісно, я не перешкоджатиму. Мої співвітчизники здебільшого теж сюди не підуть: я сама тут лише з почуття обов'язку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attacked by orcs? Then I might perhaps help you to defeat them, and repay your assistance and kindness!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -72650,6 +72658,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
       </tuv>
       <tuv lang="uk-UA">
         <seg>Добре. Звільнимо від чар цього ліча, заберемо його книгу, потім підемо в каналізацію. Мм, а на якій вона хоч мові?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, that I won’t do. However, if you do not attack, you will be rid of me soon, as I only wish to leave these woods.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T182106Z" creationid="archdron" creationdate="20241219T182106Z">
+        <seg>Ну-у, цього я не робитиму. Проте якщо даси безперешкодно пройти, я довго ваш спокій не турбуватиму, бо й сама хочу покинути ваш ліс якомога швидше.</seg>
       </tuv>
     </tu>
     <tu>
