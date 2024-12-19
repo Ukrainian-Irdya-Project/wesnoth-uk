@@ -1524,6 +1524,16 @@ We had hoped to deliver the mage to Tairach in return for our lives. I do not kn
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>21 IV, 23 YW
+
+I never would have been able to escape the trees without ghosts. They had proven their worth and saved my life. Thus Ras-Tabahn had also moved up in my estimation. After we escaped the trees, we met no more resistance on the road, and soon arrived at the meeting place where Ras-Tabahn was waiting.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T210245Z" creationid="archdron" creationdate="20241219T210245Z">
+        <seg>21 IV, 23 р.В.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>22 Deeproot, 501 YW
 
 Been a tough few days since we left Elensefar with all them patrols running around. Going by boat along the Great River, we has been managing to avoid them Wesnothians, but being constantly on the lookout be real taxing. I truly be starting to feel that tiredness in my bones... old men like me should be sitting back at home, resting our grey bodies and watchin’ over them younger folk growing up. I don’t got no business here, running around as some outlaw. Maybe if I was ten years younger...</seg>
@@ -32092,6 +32102,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
       </tuv>
       <tuv lang="uk-UA">
         <seg>Я займу місце біля лорда Карраґа. Сподіваюся, ви висловите йому повагу, на яку він заслуговує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall leave you. I have no wish to witness this violence.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T210226Z" creationid="archdron" creationdate="20241219T210226Z">
+        <seg>Я покидаю вас. Не хочу бачити кровопролиття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65285,6 +65303,14 @@ Do you wish to continue?</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Цей сервер не підтримує властивість forum_auth у вашому pbl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shall be done.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T210157Z" creationid="archdron" creationdate="20241219T210157Z">
+        <seg>Так тому й бути.</seg>
       </tuv>
     </tu>
     <tu>
