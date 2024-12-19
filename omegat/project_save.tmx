@@ -58517,6 +58517,14 @@ of Healing</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That tree can talk!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T205417Z" creationid="archdron" creationdate="20241219T205417Z">
+        <seg>Те дерево заговорило!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That tree, it speaks! No— No— We are tree-friends, really!</seg>
       </tuv>
       <tuv lang="uk-UA">
