@@ -31232,6 +31232,14 @@ Master hunters are employed by any group living in or passing through wild count
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I felt our dead stirring and corruption descending on the forest. When I left to investigate, I expected to find grim, veiled forces at work. Instead I find a human mage boldly marching down our road! I will not allow you to continue to molest our peace, and you must release the dead you have enslaved.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T181924Z" creationid="archdron" creationdate="20241219T181924Z">
+        <seg>Я відчула, як мертві почали ворочатися в могилах, а в ліс почала проникати скверна. Коли пішла з'ясувати що сталося, очікувала зіткнутися з якоюсь таємничою темною силою. Аж ось нашим трактом зухвало крокує людська чарівниця! Я не дозволю тобі й далі турбувати наш спокій. Відпусти негайно мертвих, яких уярмила!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I found Baran. He is in this cell.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -34810,6 +34818,14 @@ Though staggering in melee combat, there are many drawbacks to being outfitted i
       </tuv>
       <tuv lang="uk-UA">
         <seg>Істелімір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Isthiniel</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T180145Z" creationid="archdron" creationdate="20241219T180145Z">
+        <seg>Істініель</seg>
       </tuv>
     </tu>
     <tu>
@@ -41611,6 +41627,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Перемістити Айглондура до вказівника на східному кінці переходу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Ardonna to the northeast corner of the map</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T180308Z" creationid="archdron" creationdate="20241219T180308Z">
+        <seg>Проведіть Ардонну в північно-східний куток мапи</seg>
       </tuv>
     </tu>
     <tu>
