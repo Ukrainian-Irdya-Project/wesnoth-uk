@@ -58341,6 +58341,14 @@ of Healing</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That dark mage has woken our dead and stifles the air with her very presence. Please wake your people, Elder, and destroy her.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T210129Z" creationid="archdron" creationdate="20241219T210129Z">
+        <seg>Ця чародійка за допомогою темною магії підняла з могил наших мертвих і самою своєю присутністю оскверняє природу. Пробудіть свій народ, о, Передвічний, і знищте її.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That does it. Attack!</seg>
       </tuv>
       <tuv lang="uk-UA">
