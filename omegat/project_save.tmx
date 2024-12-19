@@ -19598,6 +19598,14 @@ Note: You need to use the default map settings for the scenario to work right.</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dolmathengalin</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T183642Z" creationid="archdron" creationdate="20241219T183642Z">
+        <seg>Дольматенґалін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Domain</seg>
       </tuv>
       <tuv lang="uk-UA">
