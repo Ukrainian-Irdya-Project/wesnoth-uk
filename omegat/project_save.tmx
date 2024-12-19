@@ -26318,6 +26318,14 @@ Months... seven months it’s been since the Crown did send a single guard here 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gladly. I assume you studied the great mage Crelanu in history class. He fought with King Haldric the First. Since he faced the immortal lords of the Green Isle directly, he undoubtedly knows more than we about their methods. Recently, I have learned where to find him.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T211644Z" creationid="archdron" creationdate="20241219T211644Z">
+        <seg>Ясна річ. Припускаю, що на уроках історії ви проходили великого мага Крелану, що воював на стороні короля Гальдріка I. Він безпосередньо стикався з безсмертними владиками Зеленого Острову, тож безперечно знатиме більше нас про їхні засоби. Недавно я дізнався, де його шукати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glamcatsil</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -27104,6 +27112,14 @@ Village</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Зелений:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greetings Ardonna! (&lt;i&gt;Cough&lt;/i&gt;) I was successful, and I see that you were as well.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T210336Z" creationid="archdron" creationdate="20241219T210336Z">
+        <seg>Вітаю, Ардонно! (&lt;i&gt;кхе&lt;/i&gt;) Мені вдалося втілити мої плани, і тобі твої, бачу, також.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72540,6 +72556,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
       </tuv>
       <tuv lang="uk-UA">
         <seg>Радий зустрічі, Леолине! Ми з друзями провчимо цього варвара. Ми вже звикли до битв — я не чекав, що дістатися сюди так складно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well met, Ras-Tabahn. Yes I was. Now, can you explain the mission you spoke of?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T210449Z" creationid="archdron" creationdate="20241219T210449Z">
+        <seg>Рада бачити, Расе-Табане. Все так. А тепер, поясни, будь ласкавий, про яке завдання ти ото казав?</seg>
       </tuv>
     </tu>
     <tu>
