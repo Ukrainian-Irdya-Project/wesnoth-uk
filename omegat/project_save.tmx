@@ -45335,6 +45335,14 @@ Behavior: $ai_controller.side_$ally_side|_current_settings.currently_doing_behav
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of course I know about Crelanu. But can we force him to reveal his knowledge to us?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T211816Z" creationid="archdron" creationdate="20241219T211816Z">
+        <seg>Звісно я знаю про Крелану. Але як його змусити відкрити нам те, що йому відомо?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of course you are right, Delfador. But what will become of the elves here?</seg>
       </tuv>
       <tuv lang="uk-UA">
