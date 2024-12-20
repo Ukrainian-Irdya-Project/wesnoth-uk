@@ -11404,10 +11404,18 @@ Income</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before we leave, I have an unrelated question. I met a mystic who said that my name was untrue. Do you have an idea what that could mean?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T122038Z" creationid="archdron" creationdate="20241220T121950Z">
+        <seg>Та перш ніж вирушимо, хотіла в тебе дещо спитати. Мені зустрівся один містик, і він сказав, що моє ім'я — „тепер інше“. Не знаєш, що це мало б значити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before we leave, I have an unrelated question. Vendraxis here has said that my name is untrue. Do you have an idea what that could mean?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T121916Z" creationid="archdron" creationdate="20241220T121809Z">
-        <seg>Та перш ніж вирушимо, хотіла в тебе дещо спитати. Вендраксис тут каже, що моє ім'я — „тепер інше“. Як гадаєш, що це мало б значити?</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T122030Z" creationid="archdron" creationdate="20241220T121809Z">
+        <seg>Та перш ніж вирушимо, хотіла в тебе дещо спитати. Вендраксис тут каже, що моє ім'я — „тепер інше“. Не знаєш, що це мало б значити?</seg>
       </tuv>
     </tu>
     <tu>
@@ -48281,6 +48289,14 @@ $unknown_list|</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Португальський переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Possibly. When an Academy mage completes his studies, he is granted syllables of power, which become his new name. You are well beyond that point, but you are with the free magi now, so choose your own name. I was originally Rassin Tabin, but that is fairly ordinary, and at one point, it no longer suited.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T122815Z" creationid="archdron" creationdate="20241220T122815Z">
+        <seg>Чого ж. Коли маг закінчує навчання в Академії, він отримує так звані „склади сили“, із яких складається його нове ім'я. Для тебе цей етап уже завершився, але ти стала вільною чарівницею, тож можеш сама собі обрати ім'я. Мене колись називали Рассен Табен, але те ім'я було доволі пересічне і зрештою перестало мені пасувати.</seg>
       </tuv>
     </tu>
     <tu>
