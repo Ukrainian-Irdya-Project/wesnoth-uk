@@ -58545,8 +58545,8 @@ of Healing</seg>
       <tuv lang="en-US">
         <seg>That shouldn’t be necessary. I have also learned that he wrote a book containing all his secrets, which must include all he knows of immortality. We need only borrow this book. I knew that getting that book was not something I could accomplish on my own, but now, with a force such as ours, it should be easily done.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20241219T213325Z" creationid="archdron" creationdate="20241219T212718Z">
-        <seg>Його не доведеться змушувати. Я також дізнався, що описав усі свої секрети у книзі, зокрема й те, що стосується безсмертя. Усе що нам треба — позичити в нього ту книгу. Самому мені його книгу не добути, а от таке військо, як у тебе, значно полегшує задачу.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T092716Z" creationid="archdron" creationdate="20241219T212718Z">
+        <seg>Його не доведеться змушувати. Я також дізнався, що описав усі свої секрети у книзі, зокрема й те, що стосується безсмертя. Усе що нам треба — позичити в нього ту книгу. Самому мені його книгу не добути, а от зібране тобою військо значно полегшило б задачу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75792,6 +75792,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Так, його.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, that seems like a plan with a good chance of success. I will join you in your effort.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T102645Z" creationid="archdron" creationdate="20241220T102645Z">
+        <seg>Твій план має непогані шанси на успіх. Я допоможу тобі його втілити.</seg>
       </tuv>
     </tu>
     <tu>
