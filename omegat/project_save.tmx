@@ -2713,6 +2713,14 @@ The tunnel at the back of the cave narrowed and ran on for quite some time. Patc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;Chapter Three:&lt;/i&gt; To Conquer Death</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T123127Z" creationid="archdron" creationdate="20241220T123127Z">
+        <seg>&lt;i&gt;Розділ 3:&lt;/i&gt; Як подолати смерть</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;Chapter Two:&lt;/i&gt; Two Missions</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -8244,6 +8252,14 @@ The central island of the archipelago is also called ‘Morogor’.</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Ардонна може перелазити через паркани (на це вона витрачатиме 2 одиниці руху), а дикі дикі звірі — ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ardryn-Na</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T122950Z" creationid="archdron" creationdate="20241220T122950Z">
+        <seg>Ардрин-На</seg>
       </tuv>
     </tu>
     <tu>
@@ -22266,6 +22282,14 @@ Enter at Your Own Risk!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Entering the Northlands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T123018Z" creationid="archdron" creationdate="20241220T123018Z">
+        <seg>У північних землях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eowarar</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -32206,6 +32230,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
       </tuv>
       <tuv lang="uk-UA">
         <seg>Тепер же, коли навкруги безчинствують банди орків-вбивць, всім давно не до боліт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I suppose you are right. I am no longer the ordinary girl Ardonna, and Vendraxis was correct. From now on I shall be... Ardryn-Na.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T122918Z" creationid="archdron" creationdate="20241220T122918Z">
+        <seg>Твоя правда. Я вже не та дівчина Ардонна, якою була в Академії, і Вендраксис мав рацію. Віднині я буду… Ардрин-На.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72636,6 +72668,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
       </tuv>
       <tuv lang="uk-UA">
         <seg>Гарно сказано!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well then Ardryn-Na, let us head north.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T123004Z" creationid="archdron" creationdate="20241220T123004Z">
+        <seg>Що ж, Ардрин-На, час нам рушати на північ.</seg>
       </tuv>
     </tu>
     <tu>
