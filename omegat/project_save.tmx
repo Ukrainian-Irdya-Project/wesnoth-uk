@@ -16188,6 +16188,14 @@ Cores allow a significantly different game experience: for example, a World War 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Crelanu</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T123546Z" creationid="archdron" creationdate="20241220T123546Z">
+        <seg>Крелану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Crelanu charged us with guarding this book until someone worthy of it should arrive. We believe you are the one, Delfador. The book may help you find a way to close the portal.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -17708,6 +17716,14 @@ Note: You need to use the default map settings for the scenario to work right.</
       </tuv>
       <tuv lang="uk-UA">
         <seg>Перемогти Башнарка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defeat Crelanu</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T123552Z" creationid="archdron" creationdate="20241220T123552Z">
+        <seg>Перемогти Крелану</seg>
       </tuv>
     </tu>
     <tu>
@@ -49889,8 +49905,8 @@ Woses are utterly unwarlike, but possess a great strength. They are, however, ne
 
 (Hard level, 18 scenarios.)</seg>
       </tuv>
-      <tuv lang="uk-UA">
-        <seg>Розкрийте таємниці лічів — владик Зеленого острова. Вони довідалися, як жити вічно, тож чому й вам не спробувати?
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T123623Z">
+        <seg>Розкрийте таємниці лічів — владик Зеленого Острова. Вони довідалися, як жити вічно, тож чому й вам не спробувати?
 
 (Високий рівень складності, 18 сценаріїв)</seg>
       </tuv>
