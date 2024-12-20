@@ -11404,6 +11404,14 @@ Income</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before we leave, I have an unrelated question. Vendraxis here has said that my name is untrue. Do you have an idea what that could mean?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20241220T121809Z" creationid="archdron" creationdate="20241220T121809Z">
+        <seg>Та перш ніж вирушимо, хотіла в тебе дещо спитати. Вендраксис тут каже моє ім'я — </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you send your fighters against the quintain, you should know they have two kinds of attacks...</seg>
       </tuv>
       <tuv lang="uk-UA">
