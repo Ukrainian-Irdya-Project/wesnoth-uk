@@ -5446,6 +5446,14 @@ Error message: $msg</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Abandoned Outpost</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T141301Z" creationid="archdron" creationdate="20250128T141301Z">
+        <seg>Покинута застава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abiha,Afaf,A'isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Cynthia,Dalal,Dalia,Eliana,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnisa,Khawla,Khawlah,Lama,Lamia,Latifa,Layal,Layan,Leila,Lina,Lulwa,Madiha,Maha,Mahmuna,Mai,Malika,Marwa,Maryam,Maya,Maysoon,Melissa,Nadia,Nafisa,Nahla,Naila,Najat,Nasim,Nasrin,Nejla,Nezha,Niusha,Qistina,Rahima,Rana,Rashida,Reem,Ruqayya,Saadia,Sabiha,Safiya,Sahar,Saida,Sajida,Sakhra,Salma,Samira,Sarah,Shahd,Shatha,Sherine,Shumaila,Sumaya,Taslima,Umm,Yara,Yasmin,Zahra,Zakiya,Zaynab</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -59091,6 +59099,14 @@ of Healing</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Це робота мерців. Нам потрібно рухатися повільніше, бо зло, котрі пробудили розбійники, відчувається доволі сильним. Ми, ельфи, також не такі майстерні в печерах, як у наших лісах. Вам доведеться показувати шлях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That you project your will into another object so that it is part of you — your staff for example. If you do this just as your body dies, your whole consciousness should follow the flow of your will, as it will have no other place to go.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T141705Z" creationid="archdron" creationdate="20250128T141705Z">
+        <seg>Тобі треба спрямувати власну волю на інший предмет, щоб він ніби став із тобою єдиним цілим — у посох, наприклад. Як тіло помре, твоя свідомість перейде туди, куди спрямована твоя воля, бо більше діватися буде нікуди.</seg>
       </tuv>
     </tu>
     <tu>
