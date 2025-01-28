@@ -7648,6 +7648,14 @@ The error message is :</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And a moment is all you need! You only need project your will &lt;i&gt;back&lt;/i&gt; into your body, animating it as you would anything else!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T142101Z" creationid="archdron" creationdate="20250128T142101Z">
+        <seg>Тієї миті цілком тобі вистачить! Ти лиш спрямуй волю &lt;i&gt;назад&lt;/i&gt; у власне тіло, і воно оживе, як будь-який мрець!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And because I can sweeten the deal. I can save the lives of all of the people left on this isle. I will reveal all, if you swear on the soul of your eldest son that you let all of the Wesfolk who may come into the city, and allow them to participate in what must happen next.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -78084,6 +78092,14 @@ If either Shaman advances to become a Druid, then she’ll be able to heal adjac
       </tuv>
       <tuv lang="uk-UA">
         <seg>Як бачиш, я озброєний, тому що ми йдемо на підмогу нашим близьким. Ми можемо допомогти один одному — і ти не розчаруєшся в нас, адже з нашої провінції виходять кращі лучники Веснота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You seem... more sure than I, but  (&lt;i&gt;cough, cough&lt;/i&gt;) I have no choice.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T142149Z" creationid="archdron" creationdate="20250128T142149Z">
+        <seg>Здається… ти впевненіша за мене… Проте… (&lt;i&gt;кхе-кхе&lt;/i&gt;) я нічого не можу вдіяти.</seg>
       </tuv>
     </tu>
     <tu>
