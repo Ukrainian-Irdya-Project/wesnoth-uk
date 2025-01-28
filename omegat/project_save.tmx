@@ -2201,6 +2201,18 @@ Today, headmaster Aimucasur himself taught a class on moving objects with one’
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6 V, 23 YW
+
+We have reached a pass through the mountains that Ras-Tabahn knew of. The air is cool in these upper reaches. Mist rises from the snow in the afternoon, and the icicles drip the purest water from rock overhangs. I find it all refreshing, but Ras-Tabahn’s coughing fits are frequent. Sometimes he is reduced to speaking in short phrases due to lack of breath. Of course, he is quite old — at least fifty — but I am also certain that he is ill. His thinness leads me to believe it is consumption, but he refuses to discuss it, preferring to deny the severity of his problem.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T104919Z" creationid="archdron" creationdate="20250128T104633Z">
+        <seg>6 V, 23 р.В.
+
+Дісталися до гірського перевалу, про який казав Рас-Табан. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6p — Crusaders’ Field</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -12784,6 +12796,14 @@ He was taken quite unawares by the Basilisk, and turned to stone before he even 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Але нам усе одно потрібна інформація, Балдрасе. Ми ні можем придумать щось, не знаючи нічого. Ми оба знаємо, шо як Велдин відправить одну зі своїх армій сюди, у нас нема жодного шансу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But we’ll win, won’t we?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T104520Z" creationid="archdron" creationdate="20250128T104520Z">
+        <seg>Але ж ми переможемо?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31006,6 +31026,14 @@ Master hunters are employed by any group living in or passing through wild count
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I did say this was trouble.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T104509Z" creationid="archdron" creationdate="20250128T104509Z">
+        <seg>Казала ж, що неприємностями пахне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I did very little, sire. It was actually the elves who saved us on that day.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -41777,6 +41805,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Більшість бійців мають дві риси. Тим не менше, гобліни мають лише одну рису, мерці мають лише рису &lt;italic&gt;text='мрець'&lt;/italic&gt; та у деяких випадках — &lt;italic&gt;text='безстрашний'&lt;/italic&gt;, а лісовики взагалі не мають ніяких рис.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mountain Pass</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T104534Z" creationid="archdron" creationdate="20250128T104525Z">
+        <seg>Гірський перевал</seg>
       </tuv>
     </tu>
     <tu>
