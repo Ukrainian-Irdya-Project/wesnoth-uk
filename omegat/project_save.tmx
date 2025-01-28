@@ -31430,6 +31430,14 @@ Master hunters are employed by any group living in or passing through wild count
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I have a sssense of dark foreboding regarding the sssnowy peaksss ahead. We may meet our doom if we don’t have enough coinsss.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T101626Z" creationid="archdron" creationdate="20250128T101626Z">
+        <seg>Маю лих-х-х-хе передчуття про ті зас-с-сніжні верш-ш-ш-шини попереду. Без грош-ш-шей там можна й головою наклас-с-сти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I have a very bad feeling about this. This awful swamp and its crazy cult... Before these troubles started we used to have to clear the swamp every spring and fall.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -37410,6 +37418,14 @@ Full paladins are generally not quite as fearsome as the ‘Grand Knights’ tha
       </tuv>
       <tuv lang="uk-UA">
         <seg>Крог</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Krongk</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T101102Z" creationid="archdron" creationdate="20250128T101102Z">
+        <seg>Кронґк</seg>
       </tuv>
     </tu>
     <tu>
@@ -51345,6 +51361,14 @@ Rest-healing is an exception to the rule — if a unit doesn’t do anything for
       </tuv>
       <tuv lang="uk-UA">
         <seg>Камені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rod-Ishnak</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T101045Z" creationid="archdron" creationdate="20250128T101045Z">
+        <seg>Род-Ішнак</seg>
       </tuv>
     </tu>
     <tu>
@@ -70542,6 +70566,14 @@ To install an add-on, select it from the list and click the &lt;bold&gt;text='+'
       </tuv>
       <tuv lang="uk-UA">
         <seg>Прогалина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vok-Hroog</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T101058Z" creationid="archdron" creationdate="20250128T101058Z">
+        <seg>Вок-Груґ</seg>
       </tuv>
     </tu>
     <tu>
