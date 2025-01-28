@@ -44265,6 +44265,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No need for you to wait to die. We can have done with it immediately. And although neither of us needs speak the incantations aloud anymore, you should this time, as any mistake would be disastrous.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T142758Z" creationid="archdron" creationdate="20250128T142758Z">
+        <seg>Можна й не чекати, доки ти помреш. Можна почати просто зараз. Нам взагалі необов'язково так робити, але цього разу ти краще вголос промовляй закляття, бо найменша помилка може все зіпсувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No nodes defined for a tree view.</seg>
       </tuv>
       <tuv lang="uk-UA">
