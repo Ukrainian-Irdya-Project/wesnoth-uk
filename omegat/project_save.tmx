@@ -30050,6 +30050,14 @@ Example: if you strike three times with 50% accuracy, you will always hit at lea
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Huh. Fine. That sounds like good sport.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103830Z" creationid="archdron" creationdate="20250128T103830Z">
+        <seg>Хе. Згода. Добре придумав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh. Well, they’re not the first ugly things we’ve seen in the wilds. Your club crushes bone just fine, so crush them.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -70786,6 +70794,14 @@ To install an add-on, select it from the list and click the &lt;bold&gt;text='+'
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait who’s that?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103504Z" creationid="archdron" creationdate="20250128T103504Z">
+        <seg>О, а це ще хто?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -75256,6 +75272,14 @@ That is a question which is easily answered by a necromancer.</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Без своєї королеви мерці просто розчиняються!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wizards and deaders just like from back home! I &lt;i&gt;hate&lt;/i&gt; those! I suggest a contest. Whoever kills the most wizards and skeletons and stuff takes this territory and all the human slaves.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103659Z" creationid="archdron" creationdate="20250128T103659Z">
+        <seg>Чарівники й мертв'яки, просто як удома! &lt;i&gt;Ненавиджу&lt;/i&gt; їх! А позмагаймося: хто більше порішить чародіїв, скелетів і всіх інших, забирає собі цей клаптик землі та всіх рабів.</seg>
       </tuv>
     </tu>
     <tu>
