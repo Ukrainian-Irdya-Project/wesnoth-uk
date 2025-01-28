@@ -35600,6 +35600,14 @@ Experienced fencers carry with them a small crossbow that is easily concealed un
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It seems that the invaders can raise undead soldiers, so I placed some holy water around the castle for protection.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T124318Z" creationid="archdron" creationdate="20250128T124318Z">
+        <seg>Схоже, нападники можуть піднімати мертвих. Я розкидала навколо замку пляшки зі свяченою водою — це допоможе в обороні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It seems that we have a common enemy, then. Would you like to join forces to defeat the undead?</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -42253,10 +42261,18 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving a unit onto a bottle of holy water will remove the bottle. A living unit can do this safely, but any undead unit will be destroyed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125030Z" creationid="archdron" creationdate="20250128T125030Z">
+        <seg>Якщо бойову одиницю пересунути на пляшку зі свяченою водою, пляшку буде знищено. Мертвяки в такому разі гинуть, а живі — ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving any unit onto a bottle of holy water will remove the bottle. An undead unit will be destroyed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T123948Z" creationid="archdron" creationdate="20250128T123948Z">
-        <seg>Якщо бойову одиницю пересунути на пляшку зі святою водою, вона знищить пляшку, але загине сама.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T124322Z" creationid="archdron" creationdate="20250128T123948Z">
+        <seg>Якщо бойову одиницю пересунути на пляшку зі свяченою водою, вона знищить пляшку, але загине сама.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51385,6 +51401,22 @@ Rest-healing is an exception to the rule — if a unit doesn’t do anything for
       </tuv>
       <tuv lang="uk-UA">
         <seg>Рілхон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rinconan</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T124112Z" creationid="archdron" creationdate="20250128T124112Z">
+        <seg>Рінконан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rinconan and I will stay here to guard you.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T124356Z" creationid="archdron" creationdate="20250128T124356Z">
+        <seg>Ми з Рінконаном захистимо тебе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76316,6 +76348,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Так. Мир зруйнований, але надія не згасла. Завжди є надія. І ти даси їй побачити світ. Я даю тобі останню частину могутності, останню частину твого імені: ДОР</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes. Thank you Ginmera.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T124405Z" creationid="archdron" creationdate="20250128T124405Z">
+        <seg>Добре. Дякую, Ґінмеро.</seg>
       </tuv>
     </tu>
     <tu>
