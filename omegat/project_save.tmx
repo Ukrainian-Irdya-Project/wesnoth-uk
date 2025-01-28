@@ -40110,8 +40110,8 @@ Units that can move but can’t attack are shown with the &lt;i&gt;disengaged&lt
       <tuv lang="en-US">
         <seg>Many orcs are decent sorts (&lt;i&gt;cough, cough&lt;/i&gt;). I fought alongside Krag-Ubor once, who the farther orc just mentioned.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103226Z" creationid="archdron" creationdate="20250128T103226Z">
-        <seg>Серед орків немало порядних (&lt;i&gt;кхе-кхе&lt;/i&gt;)</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103453Z" creationid="archdron" creationdate="20250128T103226Z">
+        <seg>Порядний орк — не така вже й рідкість (&lt;i&gt;кхе-кхе&lt;/i&gt;). Мені доводилося битися пліч-о-пліч з Краґ-Убором, що про нього той орк на віддалі казав.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61947,8 +61947,8 @@ Please report the bug.</seg>
       <tuv lang="en-US">
         <seg>The passes to the north are the end of many travelers. We would be wise to reach them with a reserve of gold. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102157Z" creationid="archdron" creationdate="20250128T102042Z">
-        <seg>На північних перевалах загинув не один мандрівник. Варто мати якийсь запас золота, коли туди дійдемо.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103239Z" creationid="archdron" creationdate="20250128T102042Z">
+        <seg>На північних перевалах загинув не один мандрівник. Варто мати якийсь запас золота, коли туди дійдемо (&lt;i&gt;кхе-кхе&lt;/i&gt;).</seg>
       </tuv>
     </tu>
     <tu>
