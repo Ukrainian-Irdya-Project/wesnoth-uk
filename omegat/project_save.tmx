@@ -1941,6 +1941,18 @@ I was so sure I had the answer! I was wrong. I wanted to believe that I was imag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 VI, 23 YW
+
+We crossed the high plateaus, and forded the Arkan-thoria. Then we headed up into the mountains again before we found the mage. This was Ras-Tabahn’s plan, and with the goal in sight, he gained a little strength. However, he is quite weak and ill now, and breathing raggedly. I don’t know how much longer he can survive.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T123708Z" creationid="archdron" creationdate="20250128T123708Z">
+        <seg>3 VI, 23 р.В.
+
+Ми перетнули високогірне плато й переправилися через Аркан-Торію. Перш ніж знайшли мага, довелося знову підніматися в гори. На пошуки мага запропонував іти Рас-Табан, тож йому наче прибувало сили, що ближчі ми ставали до мети. Проте він зараз зовсім хворий. Він змарнів, хрипко дихає. Не знаю, скільки ще він протягне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>32</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -2205,10 +2217,10 @@ Today, headmaster Aimucasur himself taught a class on moving objects with one’
 
 We have reached a pass through the mountains that Ras-Tabahn knew of. The air is cool in these upper reaches. Mist rises from the snow in the afternoon, and the icicles drip the purest water from rock overhangs. I find it all refreshing, but Ras-Tabahn’s coughing fits are frequent. Sometimes he is reduced to speaking in short phrases due to lack of breath. Of course, he is quite old — at least fifty — but I am also certain that he is ill. His thinness leads me to believe it is consumption, but he refuses to discuss it, preferring to deny the severity of his problem.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T104919Z" creationid="archdron" creationdate="20250128T104633Z">
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T120332Z" creationid="archdron" creationdate="20250128T104633Z">
         <seg>6 V, 23 р.В.
 
-Дісталися до гірського перевалу, про який казав Рас-Табан. </seg>
+Дісталися до гірського перевалу, про який розповідав Рас-Табан. На висоті похолодало. Після полудня сніг починає парувати, а з бурульок на виступах починає крапати небаченої чистоти вода. Мені подобається тут, проте Рас-Табан часто заходиться кашлем. Часом йому не стає дихання й доводиться розмовляти короткими реченнями. Старість — не радість, звісно, а йому щонайменше 50 уже, проте його кашель — вияв якоїсь хвороби, я в цьому певна. З огляду на його худорбу, припускаю, що він страждає на сухоти. Одначе він відмовляється обговорювати цю тему й наполягає, що то дрібниця.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4830,6 +4842,14 @@ However, a halberd is notably more expensive to craft than a spear, and in the h
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A large (&lt;i&gt;cough, cough&lt;/i&gt;) flightless bird... would be my guess.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121108Z" creationid="archdron" creationdate="20250128T121108Z">
+        <seg>Якийсь здоровенний (&lt;i&gt;кхе-кхе&lt;/i&gt;) нелетючий птах… мабуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A large flightless bird would be my guess.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184324Z" creationid="archdron" creationdate="20240922T184324Z">
@@ -5106,6 +5126,14 @@ Error message: $msg</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Скелети лучники мало чим відрізняються від їх товаришів скелетів — воїни, підняті з могили на ще одну битву це у будь-якому випадку крок проти природи. Керовані своїм господарем, ці солдати виконають будь-яке завдання, що перед ними поставлене, адже смерть не страшна нежиті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A skeleton could ride it I think.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121425Z" creationid="archdron" creationdate="20250128T121425Z">
+        <seg>Гадаю, можна на нього скелета посадити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26318,6 +26346,14 @@ Months... seven months it’s been since the Crown did send a single guard here 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ginmera</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T124048Z" creationid="archdron" creationdate="20250128T124048Z">
+        <seg>Ґінмера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ginvan</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -27492,6 +27528,14 @@ The means by which gryphons are able to fly despite their great weight has been 
         <seg>Грифони — великі, могутні тварини, з спільними рисами як від наземних хижаків, так і від хижих птахів. Хоча іноді знаходяться сміливці, які їх приручають та їздять верхи, грифони дуже агресивні та завзято охороняють свою територію, а особливо — свої гнізда.
 
 Століттями точаться суперечки: як грифони взагалі можуть літати з такою-то вагою, але це досі залишається таємницею, як і їхнє походження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gryphons... live at this height. We should be cautious.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121932Z" creationid="archdron" creationdate="20250128T121932Z">
+        <seg>Грифони… живуть на цих висотах. Будьмо обережні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32714,6 +32758,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I will not climb on that ridiculous thing!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121358Z" creationid="archdron" creationdate="20250128T121350Z">
+        <seg>Я на цю ш-ш-штуку не полізу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I will not send you away completely empty-handed, though. I can spare some holy water for one of your soldiers.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -32802,6 +32854,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I wonder what they are from. A gryphon perhaps?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T120937Z" creationid="archdron" creationdate="20250128T120937Z">
+        <seg>Цікаво, чиї вони. Може грифона?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I wonder what they are from. A large flightless bird perhaps? Let us see.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T184403Z" creationid="archdron" creationdate="20240922T184403Z">
@@ -32814,6 +32874,22 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
       </tuv>
       <tuv lang="uk-UA">
         <seg>Цікаво, чого це там з лісу виглядає той вовк, в нього дивні кольори.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wonder... if it could carry... someone light.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121416Z" creationid="archdron" creationdate="20250128T121416Z">
+        <seg>Цікаво… А зміг би він… Нести якогось вершника… Неважкого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wonder... if it could carry... someone light. Vendraxis perhaps.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121307Z" creationid="archdron" creationdate="20250128T121307Z">
+        <seg>Цікаво… А зміг би він… Нести якогось вершника… Неважкого, як Вендраксис.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41881,6 +41957,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move Ardryn-Na and Ras-Tabahn to level ground in the northeast corner</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T120435Z" creationid="archdron" creationdate="20250128T120435Z">
+        <seg>Провести Ардрин-На і Раса-Табана на рівне місце в північно-східному кутку мапи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move Arvith to the cell with his brother to free him</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -42165,6 +42249,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Переміщення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving any unit onto a bottle of holy water will remove the bottle. An undead unit will be destroyed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T123948Z" creationid="archdron" creationdate="20250128T123948Z">
+        <seg>Якщо бойову одиницю пересунути на пляшку зі святою водою, вона знищить пляшку, але загине сама.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45095,8 +45187,8 @@ Though few wolves could even stand with the weight of a true orc on their back, 
       <tuv lang="en-US">
         <seg>Now I’m really far from home. I’ve never been north of the river before. I hope I get to see some dwarves!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102622Z" creationid="archdron" creationdate="20250128T102622Z">
-        <seg>Далеченько від дому я зайшла. Ніколи не бувала на північ від річки. От би довелося на гномів подивитися!</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T105255Z" creationid="archdron" creationdate="20250128T102622Z">
+        <seg>Далеченько ж від дому мене занесло: на північ від річки я ніколи не бувала. От би довелося на гномів подивитися!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49561,6 +49653,14 @@ Woses are utterly unwarlike, but possess a great strength. They are, however, ne
       </tuv>
       <tuv lang="uk-UA">
         <seg>Рас-Табан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ras-Tabahn is slowed and will lose four hitpoints every turn. He will die if he reaches zero.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T123846Z" creationid="archdron" creationdate="20250128T123846Z">
+        <seg>Рас-Табан рухається повільніше і втрачає 4 одиниці здоров'я за хід. Він помре, якщо його рівень здоров'я сягне 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58887,6 +58987,14 @@ of Healing</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That’s fantastic! These birds could be quite useful.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121444Z" creationid="archdron" creationdate="20250128T121434Z">
+        <seg>Чудово! Ці птахи можуть стати в пригоді.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That’s horrible!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -63501,6 +63609,14 @@ Skeletons and zombies killed cattle and fired fields. &lt;i&gt;“Fear and obey 
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183607Z" creationid="archdron" creationdate="20240922T183607Z">
         <seg>Якісь доволі великі кості тут. Бачу серед них кігті й крила.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are some... large bones there. Claws and wings... I think.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T120913Z" creationid="archdron" creationdate="20250128T120913Z">
+        <seg>Тут якісь… великі кістки. Пазурі й крила… здається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71726,8 +71842,8 @@ Our mines produce $player_$side_number|.mining.gold|g</seg>
       <tuv lang="en-US">
         <seg>We have crossed into the north. The dwarven kingdom of Knalga lies straight ahead.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102324Z" creationid="archdron" creationdate="20250128T102324Z">
-        <seg>Ми дісталися північних земель. Там далі — Кналґа, королівство гномів.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T105227Z" creationid="archdron" creationdate="20250128T102324Z">
+        <seg>Ми дісталися північних земель. Там далі — Кналґа, царство гномів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73048,6 +73164,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, there is an easy way to discover the truth.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121141Z" creationid="archdron" creationdate="20250128T121141Z">
+        <seg>Що ж, можна легко перевірити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, there is an easy way to find out.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T183734Z" creationid="archdron" creationdate="20240922T183734Z">
@@ -73648,6 +73772,14 @@ Campaigns are grouped by &lt;italic&gt;text='level'&lt;/italic&gt; and &lt;itali
       </tuv>
       <tuv lang="uk-UA">
         <seg>Які наслідки?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What dangers may lurk in this fog?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121909Z" creationid="archdron" creationdate="20250128T121909Z">
+        <seg>Які загрози може приховувати цей туман?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76240,6 +76372,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20250127T153813Z" creationid="archdron" creationdate="20241203T195014Z">
         <seg>Так, але планети кажуть, що твоє ім'я тепер інш-ш-ше. Я цc-c-cього не розумію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yesss. The danger I sssensed is here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T121957Z" creationid="archdron" creationdate="20250128T121957Z">
+        <seg>Дійс-с-с-сно. Тут відчуваєтьс-с-ся небезпека.</seg>
       </tuv>
     </tu>
     <tu>
