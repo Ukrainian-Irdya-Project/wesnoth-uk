@@ -73272,6 +73272,14 @@ A full list of abilities and weapon specials, along with traits, may be found in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, it could go to the... lands of the dead. But... if I had an altar... the stone would serve to anchor me (&lt;i&gt;cough, cough, cough&lt;/i&gt;) to this plane... and stop the downward flow of my soul... for just a moment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T141932Z" creationid="archdron" creationdate="20250128T141932Z">
+        <seg>Вона може піти… до світу мертвих. Проте… якби був вівтар… його камінь втримав би мене (&lt;i&gt;кхе-кхе-кхе&lt;/i&gt;) у цьому світі… і втримав би мою душу… на якусь мить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, it looks like their warriors have given up the fight. We should be able to re-provision the ships now.</seg>
       </tuv>
       <tuv lang="uk-UA">
