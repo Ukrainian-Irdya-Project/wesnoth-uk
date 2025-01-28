@@ -31342,6 +31342,14 @@ Master hunters are employed by any group living in or passing through wild count
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I don’t understand. What did Crelanu tell us?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T135849Z" creationid="archdron" creationdate="20250128T135849Z">
+        <seg>Не розумію. Що ми почули від Крелану?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I expect we’ll be facing more undead. Be careful.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -32746,6 +32754,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
       </tuv>
       <tuv lang="uk-UA">
         <seg>Ні в якому разі! Я життя своє покладу, але не дам тобі зачарувати наших дітей!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will explain. Let us get you somewhere safe first. We’ll go into the cave. Come with me.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T140034Z" creationid="archdron" creationdate="20250128T140034Z">
+        <seg>Згодом поясню. Спочатку треба знайти тобі безпечне місце. Ось печера. Ходімо зі мною.</seg>
       </tuv>
     </tu>
     <tu>
