@@ -45017,6 +45017,14 @@ Though few wolves could even stand with the weight of a true orc on their back, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now I’m really far from home. I’ve never been north of the river before. I hope I get to see some dwarves!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102622Z" creationid="archdron" creationdate="20250128T102622Z">
+        <seg>Далеченько від дому я зайшла. Ніколи не бувала на північ від річки. От би довелося на гномів подивитися!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now give the book to me.</seg>
       </tuv>
       <tuv lang="uk-UA">
