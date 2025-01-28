@@ -30750,6 +30750,14 @@ Master hunters are employed by any group living in or passing through wild count
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I arrived first, Hroog. It’s mine!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102900Z" creationid="archdron" creationdate="20250128T102858Z">
+        <seg>Я перший сюди дістався, Груґу. Ці землі мої!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I be Movrur, of the ancient stronghold of Kal Kartha.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -40096,6 +40104,14 @@ Units that can move but can’t attack are shown with the &lt;i&gt;disengaged&lt
       </tuv>
       <tuv lang="uk-UA">
         <seg>Усі молоді наги-воячки чекають дня, коли вони зможуть заслужити на свій другий клинок. Їх мистецтво фехтування двома клинками зовсім несхоже на прийоми орків і інших рас. Вони тренуються в ухиленні і маневрі, в чому їм допомагає їх змієподібне тіло. Це робить їх боєздатними на суші, але опір води значно ускладнює використання цієї техніки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many orcs are decent sorts (&lt;i&gt;cough, cough&lt;/i&gt;). I fought alongside Krag-Ubor once, who the farther orc just mentioned.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103226Z" creationid="archdron" creationdate="20250128T103226Z">
+        <seg>Серед орків немало порядних (&lt;i&gt;кхе-кхе&lt;/i&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64615,6 +64631,14 @@ For experienced players, it’s recommended to lower the starting gold to 75.</s
       </tuv>
       <tuv lang="uk-UA">
         <seg>На цьому ми завершуємо розгляд основ гри ‘Битва за Веснот’. Ви можете також прочитати ‘Основи стратегії’ або ознайомитись з &lt;ref&gt;dst='..traits_section' text='особливостями бійців'&lt;/ref&gt; та &lt;ref&gt;dst='..abilities_section' text='уміннями'&lt;/ref&gt;, але Ви вже знаєте досить, щоб розпочати кампанію &lt;italic&gt;text='Спадкоємець престолу'&lt;/italic&gt;. Насолоджуйтесь та удачі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This could be trouble.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T103029Z" creationid="archdron" creationdate="20250128T103029Z">
+        <seg>Пахне неприємностями.</seg>
       </tuv>
     </tu>
     <tu>
