@@ -32318,6 +32318,14 @@ I added more gold to the pile, but he didn’t notice, he only glared at me with
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I shall not.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125549Z" creationid="archdron" creationdate="20250128T125549Z">
+        <seg>Ні за що.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I should get off the island in case the ethics committee is concerned about a rogue mage. I shall not be dragged back in disgrace! I should be able to reach the town of Llorvin before morning. I can hide there until I can head for the dock. I will need some traveling money for that, so go, my bat friends, and find me some gold!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -41849,6 +41857,14 @@ Their skill at hunting is very useful in combat, and also leaves them unusually 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Морогор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mortality</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125603Z" creationid="archdron" creationdate="20250128T125603Z">
+        <seg>Смертність</seg>
       </tuv>
     </tu>
     <tu>
@@ -75104,6 +75120,14 @@ That is a question which is easily answered by a necromancer.</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Чому нападали ельфи?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why would you do such a thing?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125514Z" creationid="archdron" creationdate="20250128T125509Z">
+        <seg>Навіщо?</seg>
       </tuv>
     </tu>
     <tu>
