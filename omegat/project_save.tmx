@@ -61915,8 +61915,8 @@ Please report the bug.</seg>
       <tuv lang="en-US">
         <seg>The passes to the north are the end of many travelers. We would be wise to reach them with a reserve of gold. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102042Z" creationid="archdron" creationdate="20250128T102042Z">
-        <seg>На північних перевалах загинув не один мандрівник. </seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102157Z" creationid="archdron" creationdate="20250128T102042Z">
+        <seg>На північних перевалах загинув не один мандрівник. Варто мати якийсь запас золота, коли туди дійдемо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64297,6 +64297,14 @@ Well, I might as well do my experiment and worry about leaving later.</seg>
       </tuv>
       <tuv lang="uk-UA">
         <seg>Це Весфольки, природжені злодії і розбійники; я не пам'ятаю жодного літа, щоб вони не нападали на нас. Що незрозумілого цього разу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They’re attacking me!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102205Z" creationid="archdron" creationdate="20250128T102205Z">
+        <seg>На мене напали!</seg>
       </tuv>
     </tu>
     <tu>
@@ -71616,6 +71624,14 @@ Our mines produce $player_$side_number|.mining.gold|g</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have crossed into the north. The dwarven kingdom of Knalga lies straight ahead.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102324Z" creationid="archdron" creationdate="20250128T102324Z">
+        <seg>Ми дісталися північних земель. Там далі — Кналґа, королівство гномів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have destroyed the undead.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -75692,6 +75708,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Ага, ну я передумав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah, yeah.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102211Z" creationid="archdron" creationdate="20250128T102211Z">
+        <seg>Ага, ага.</seg>
       </tuv>
     </tu>
     <tu>
