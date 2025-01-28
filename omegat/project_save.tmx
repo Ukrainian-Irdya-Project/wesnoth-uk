@@ -16264,6 +16264,14 @@ Cores allow a significantly different game experience: for example, a World War 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Crelanu! (&lt;i&gt;Cough, cough&lt;/i&gt;) We have come... for your book.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125140Z" creationid="archdron" creationdate="20250128T125103Z">
+        <seg>Крелану! (&lt;i&gt;кхе-кхе&lt;/i&gt;) Ми прийшли… за твоєю книгою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Criminal</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -72236,6 +72244,14 @@ Either way, nothing will be gained by your intrusion into our woods. Now advance
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need to borrow it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125118Z" creationid="archdron" creationdate="20250128T125118Z">
+        <seg>Хочемо її… позичити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need to occupy that village, otherwise they will take it soon! Move a unit into the village to stop the orcs capturing it. Whichever unit you choose will benefit from the village’s healing, too.</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -76100,6 +76116,14 @@ Woses are not warriors by any means, but their great strength can easily be turn
       </tuv>
       <tuv lang="uk-UA">
         <seg>Так. Можу показати, як можна створити власного. Та чи не розв'язали ви вже проблему пам'яті у випадку привидів?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, I knew people like you would be coming, but the book is out of reach now — for all of us. I have given it to the elves. Only they know where it is.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125443Z" creationid="archdron" creationdate="20250128T125443Z">
+        <seg>Я знав, що зрештою явиться хтось вашого штибу. Та книга зараз недосяжна. Для всіх нас. Я віддав її ельфам — лиш їм відомо, де вона.</seg>
       </tuv>
     </tu>
     <tu>
