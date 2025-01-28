@@ -63563,6 +63563,14 @@ Skeletons and zombies killed cattle and fired fields. &lt;i&gt;“Fear and obey 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There &lt;i&gt;is no secret&lt;/i&gt;, you fools! Magic cannot stop aging. You cannot live forever. It is the way of nature, and the greatest thing we have in common with all of creation. You &lt;i&gt;must&lt;/i&gt; die, and your soul depart. I would not try this thing for any reason.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T134139Z" creationid="archdron" creationdate="20250128T134139Z">
+        <seg>&lt;i&gt;Немає ніякого секрету&lt;/i&gt;, йолопи! Магія не може спинити старіння. Неможливо жити вічно! Така вже наша доля, і вона — найважливіша спільність, яку маємо з усім сущим. Ви &lt;i&gt;мусите&lt;/i&gt; померти, а ваша душа — відлетіти. У жодному разу не можна порушувати цей порядок речей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are also campaigns that can be played in multiplayer.</seg>
       </tuv>
       <tuv lang="uk-UA">
