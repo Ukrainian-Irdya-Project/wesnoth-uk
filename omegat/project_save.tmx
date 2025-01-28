@@ -8328,6 +8328,14 @@ The central island of the archipelago is also called ‘Morogor’.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ardryn-Na, I’m dying. (&lt;i&gt;Cough, cough&lt;/i&gt;) I don’t think... I can stop it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T140905Z" creationid="archdron" creationdate="20250128T140905Z">
+        <seg>Ардрин-На, я помираю. (&lt;i&gt;Кхе-кхе&lt;/i&gt;) Нічого… із цим не вдієш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you feeling well?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20240922T190230Z" creationid="archdron" creationdate="20240922T190230Z">
@@ -36670,6 +36678,14 @@ Experienced fencers carry with them a small crossbow that is easily concealed un
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just a little farther.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T140335Z" creationid="archdron" creationdate="20250128T140335Z">
+        <seg>Ще трошки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just a little further!</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -49769,6 +49785,14 @@ Woses are utterly unwarlike, but possess a great strength. They are, however, ne
       </tuv>
       <tuv lang="uk-UA">
         <seg>Раш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rats</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T140332Z" creationid="archdron" creationdate="20250128T140332Z">
+        <seg>Щури</seg>
       </tuv>
     </tu>
     <tu>
