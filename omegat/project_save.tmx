@@ -45449,6 +45449,14 @@ Though few wolves could even stand with the weight of a true orc on their back, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now, you will tell us the secret of immortality or die!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T133400Z" creationid="archdron" creationdate="20250128T133400Z">
+        <seg>Ти розкриєш нам секрет безсмертя або здохнеш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now, young lady, it is time to discuss strategy. Your units are ready to attack, and the orcish leader has begun gathering his own troops.</seg>
       </tuv>
       <tuv lang="uk-UA">
