@@ -61913,6 +61913,14 @@ Please report the bug.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The passes to the north are the end of many travelers. We would be wise to reach them with a reserve of gold. (&lt;i&gt;Cough, cough&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T102042Z" creationid="archdron" creationdate="20250128T102042Z">
+        <seg>На північних перевалах загинув не один мандрівник. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The passphrase attribute cannot be present when forum_auth is used.</seg>
       </tuv>
       <tuv lang="uk-UA">
