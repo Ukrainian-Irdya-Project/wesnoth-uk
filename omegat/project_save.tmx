@@ -2225,6 +2225,18 @@ We have reached a pass through the mountains that Ras-Tabahn knew of. The air is
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6 VI, 23 YW
+
+Not far inside the cave was a ruined castle built in a style I did not recognize. Ras-Tabahn said, “Dwarves.” It is infested with rats, and clearly, no dwarves have lived here for a long time.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T140329Z" creationid="archdron" creationdate="20250128T140329Z">
+        <seg>6 VI, 23 р.В.
+
+Недалеко від входу в печеру знайшовся розвалений замок, збудований невідомими мені зодчими. «Гноми», — промовив Рас-Табан. Проте, судячи з кількості щурів, гноми там давно вже не живуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6p — Crusaders’ Field</seg>
       </tuv>
       <tuv lang="uk-UA">
