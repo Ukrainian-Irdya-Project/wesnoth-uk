@@ -55515,6 +55515,14 @@ Marksman known as Dragonbane
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So that one like you would not be tempted to do what you intend. Oh, yes. I know well what you seek.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T132302Z" creationid="archdron" creationdate="20250128T132302Z">
+        <seg>Щоб таким, як ви, не кортіло робити те, що ви зібралися. Так-так, я знаю, чого саме вам заманулося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So the elves finally come to defend their valley. Pity, they showed up too late. We will stop them here and prevent them from reclaiming the knowledge that was once theirs!</seg>
       </tuv>
       <tuv lang="uk-UA">
