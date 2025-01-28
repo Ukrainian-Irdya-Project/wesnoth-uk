@@ -30990,6 +30990,14 @@ Master hunters are employed by any group living in or passing through wild count
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I declare this competition official. I will support the claim of the winner.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T104435Z" creationid="archdron" creationdate="20250128T104435Z">
+        <seg>Хай буде так. Я стану на сторону того, хто переможе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I did not want to spill human blood, but this arrogant prince leaves me no other choice.</seg>
       </tuv>
       <tuv lang="uk-UA">
