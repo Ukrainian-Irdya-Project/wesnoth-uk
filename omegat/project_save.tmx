@@ -44933,6 +44933,14 @@ Though few wolves could even stand with the weight of a true orc on their back, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nor should you! You must embrace it. Crelanu said as much. He also said your life force must depart, but he didn’t say it could not come back to you!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T141143Z" creationid="archdron" creationdate="20250128T141143Z">
+        <seg>І не треба нічого із цим робити! Треба прийняти смерть, Крелану ж казав. А ще, що твоя життєва сила має відлетіти. Проте він нічого не сказав про те, що її не можна повернути!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="uk-UA">
@@ -73912,6 +73920,14 @@ Campaigns are grouped by &lt;italic&gt;text='level'&lt;/italic&gt; and &lt;itali
       </tuv>
       <tuv lang="uk-UA">
         <seg>Про що це ти кажеш?! Ця дорога завжди була вільною для всіх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What are you... proposing?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T141202Z" creationid="archdron" creationdate="20250128T141153Z">
+        <seg>Що ти маєш… на увазі?</seg>
       </tuv>
     </tu>
     <tu>
