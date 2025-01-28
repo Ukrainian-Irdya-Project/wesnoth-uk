@@ -16300,6 +16300,14 @@ Cores allow a significantly different game experience: for example, a World War 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Crelanu said he wouldn’t do it. That implies that he &lt;i&gt;could&lt;/i&gt;, so he also believed that it would work. And like you said, he should know. For now, you can rest. We’ll have an altar built soon.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T142504Z" creationid="archdron" creationdate="20250128T142225Z">
+        <seg>Крелану сказав, що не вчинив би так, а отже — він &lt;i&gt;міг би&lt;/i&gt;. Він був певен, що це спрацює. А він на таких речах знається — ти сам розповідав. Ти відпочинь поки. Скоро збудуємо тобі вівтар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Crelanu! (&lt;i&gt;Cough, cough&lt;/i&gt;) We have come... for your book.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20250128T125140Z" creationid="archdron" creationdate="20250128T125103Z">
@@ -63649,8 +63657,8 @@ Skeletons and zombies killed cattle and fired fields. &lt;i&gt;“Fear and obey 
       <tuv lang="en-US">
         <seg>There &lt;i&gt;is no secret&lt;/i&gt;, you fools! Magic cannot stop aging. You cannot live forever. It is the way of nature, and the greatest thing we have in common with all of creation. You &lt;i&gt;must&lt;/i&gt; die, and your soul depart. I would not try this thing for any reason.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T134139Z" creationid="archdron" creationdate="20250128T134139Z">
-        <seg>&lt;i&gt;Немає ніякого секрету&lt;/i&gt;, йолопи! Магія не може спинити старіння. Неможливо жити вічно! Така вже наша доля, і вона — найважливіша спільність, яку маємо з усім сущим. Ви &lt;i&gt;мусите&lt;/i&gt; померти, а ваша душа — відлетіти. У жодному разу не можна порушувати цей порядок речей.</seg>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T142251Z" creationid="archdron" creationdate="20250128T134139Z">
+        <seg>&lt;i&gt;Немає ніякого секрету&lt;/i&gt;, йолопи! Магія не може спинити старіння. Неможливо жити вічно! Така вже наша доля, і вона — найважливіша спільність, яку маємо з усім сущим. Ви &lt;i&gt;мусите&lt;/i&gt; померти, а ваша душа — відлетіти. Я жодному разі не насмілився б порушити цей порядок речей.</seg>
       </tuv>
     </tu>
     <tu>
