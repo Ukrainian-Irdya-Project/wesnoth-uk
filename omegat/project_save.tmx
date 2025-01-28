@@ -49697,6 +49697,14 @@ Woses are utterly unwarlike, but possess a great strength. They are, however, ne
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ras-Tabahn is sick. He is slowed, and will lose four hitpoints every turn. He will die if he reaches zero.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T132353Z" creationid="archdron" creationdate="20250128T132353Z">
+        <seg>Рас-Табан хворий. Він рухається повільніше і втрачає 4 одиниці здоров'я за хід. Він помре, якщо його рівень здоров'я сягне 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ras-Tabahn is slowed and will lose four hitpoints every turn. He will die if he reaches zero.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="archdron" changedate="20250128T123846Z" creationid="archdron" creationdate="20250128T123846Z">
@@ -63407,6 +63415,14 @@ Skeletons and zombies killed cattle and fired fields. &lt;i&gt;“Fear and obey 
       </tuv>
       <tuv lang="uk-UA">
         <seg>Тоді ви тож побратими-вигнанці. Але чому ви не проти дапамогти нам?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then you can tell us what we want to know.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="archdron" changedate="20250128T132323Z" creationid="archdron" creationdate="20250128T132323Z">
+        <seg>Тоді ти розповіси нам все, що нам треба знати.</seg>
       </tuv>
     </tu>
     <tu>
